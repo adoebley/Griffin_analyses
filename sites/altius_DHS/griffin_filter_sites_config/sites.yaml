@@ -1,0 +1,17 @@
+site_files:
+  Cancer_epithelial_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Cancer_epithelial_DHS.txt
+  Cardiac_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Cardiac_DHS.txt
+  Digestive_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Digestive_DHS.txt
+  Lymphoid_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Lymphoid_DHS.txt
+  Musculoskeletal_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Musculoskeletal_DHS.txt
+  Myeloid_erythroid_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Myeloid_erythroid_DHS.txt
+  Neural_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Neural_DHS.txt
+  Organ_devel_renal_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Organ_devel_renal_DHS.txt
+  Placental_trophoblast_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Placental_trophoblast_DHS.txt
+  Primitive_embryonic_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Primitive_embryonic_DHS.txt
+  Pulmonary_devel_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Pulmonary_devel_DHS.txt
+  Renal_cancer_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Renal_cancer_DHS.txt
+  Stromal_A_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Stromal_A_DHS.txt
+  Stromal_B_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Stromal_B_DHS.txt
+  Tissue_invariant_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Tissue_invariant_DHS.txt
+  Vascular_endothelial_DHS: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/meuleman/hg38_raw/Vascular_endothelial_DHS.txt
