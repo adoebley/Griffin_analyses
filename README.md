@@ -2,7 +2,8 @@
 A flexible framework for nucleosome profiling of cell-free DNA
 
 
-This repository contains scripts used for analyses in the griffin manuscript. 
+This repository contains scripts used for analyses in the griffin manuscript:    
+Doebley, et al. Griffin: Framework for clinical cancer subtyping from nucleosome profiling of cell-free DNA. (2021) MedRxiv. [doi: https://doi.org/10.1101/2021.08.31.21262867](https://doi.org/10.1101/2021.08.31.21262867)
 
 
 Versions of packages used in the scripts:  
