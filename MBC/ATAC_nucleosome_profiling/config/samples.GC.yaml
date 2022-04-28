@@ -1,0 +1,1017 @@
+samples:
+  MBC_1041_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1041_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1041_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1041_1_ULP.mappability_bias.txt
+  MBC_1041_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1041_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1041_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1041_3_ULP.mappability_bias.txt
+  MBC_1041_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1041_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1041_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1041_4_ULP.mappability_bias.txt
+  MBC_1042_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1042_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1042_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1042_1_ULP.mappability_bias.txt
+  MBC_1042_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1042_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1042_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1042_2_ULP.mappability_bias.txt
+  MBC_1043_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1043_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1043_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1043_1_ULP.mappability_bias.txt
+  MBC_1052_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1052_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1052_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1052_ULP.mappability_bias.txt
+  MBC_1055_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1055_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1055_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1055_1_ULP.mappability_bias.txt
+  MBC_1055_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1055_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1055_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1055_2_ULP.mappability_bias.txt
+  MBC_1065_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1065_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1065_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1065_5_ULP.mappability_bias.txt
+  MBC_1068_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1068_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1068_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1068_1_ULP.mappability_bias.txt
+  MBC_1077_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1077_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1077_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1077_4_ULP.mappability_bias.txt
+  MBC_1082_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1082_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1082_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1082_3_ULP.mappability_bias.txt
+  MBC_1082_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1082_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1082_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1082_4_ULP.mappability_bias.txt
+  MBC_1086_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1086_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1086_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1086_ULP.mappability_bias.txt
+  MBC_1087_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1087_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1087_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1087_2_ULP.mappability_bias.txt
+  MBC_1087_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1087_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1087_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1087_3_ULP.mappability_bias.txt
+  MBC_1088_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1088_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1088_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1088_2_ULP.mappability_bias.txt
+  MBC_1088_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1088_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1088_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1088_3_ULP.mappability_bias.txt
+  MBC_1090_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1090_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1090_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1090_ULP.mappability_bias.txt
+  MBC_1091_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1091_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1091_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1091_1_ULP.mappability_bias.txt
+  MBC_1091_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1091_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1091_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1091_2_ULP.mappability_bias.txt
+  MBC_1092_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1092_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1092_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1092_1_ULP.mappability_bias.txt
+  MBC_1092_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1092_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1092_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1092_3_ULP.mappability_bias.txt
+  MBC_1095_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1095_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1095_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1095_ULP.mappability_bias.txt
+  MBC_1096_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1096_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1096_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1096_1_ULP.mappability_bias.txt
+  MBC_1096_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1096_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1096_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1096_2_ULP.mappability_bias.txt
+  MBC_1096_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1096_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1096_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1096_5_ULP.mappability_bias.txt
+  MBC_1098_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1098_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1098_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1098_1_ULP.mappability_bias.txt
+  MBC_1098_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1098_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1098_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1098_2_ULP.mappability_bias.txt
+  MBC_1099_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1099_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1099_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1099_4_ULP.mappability_bias.txt
+  MBC_1099_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1099_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1099_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1099_5_ULP.mappability_bias.txt
+  MBC_1106_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1106_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1106_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1106_ULP.mappability_bias.txt
+  MBC_1107_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1107_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1107_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1107_2_ULP.mappability_bias.txt
+  MBC_1109_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1109_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1109_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1109_1_ULP.mappability_bias.txt
+  MBC_1109_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1109_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1109_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1109_2_ULP.mappability_bias.txt
+  MBC_1111_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1111_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1111_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1111_1_ULP.mappability_bias.txt
+  MBC_1111_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1111_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1111_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1111_2_ULP.mappability_bias.txt
+  MBC_1115_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1115_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1115_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1115_1_ULP.mappability_bias.txt
+  MBC_1115_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1115_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1115_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1115_3_ULP.mappability_bias.txt
+  MBC_1115_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1115_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1115_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1115_4_ULP.mappability_bias.txt
+  MBC_1116_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1116_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1116_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1116_1_ULP.mappability_bias.txt
+  MBC_1116_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1116_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1116_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1116_3_ULP.mappability_bias.txt
+  MBC_1116_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1116_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1116_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1116_4_ULP.mappability_bias.txt
+  MBC_1117_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1117_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1117_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1117_1_ULP.mappability_bias.txt
+  MBC_1117_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1117_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1117_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1117_2_ULP.mappability_bias.txt
+  MBC_1119_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1119_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1119_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1119_1_ULP.mappability_bias.txt
+  MBC_1119_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1119_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1119_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1119_2_ULP.mappability_bias.txt
+  MBC_1119_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1119_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1119_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1119_3_ULP.mappability_bias.txt
+  MBC_1120_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1120_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1120_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1120_ULP.mappability_bias.txt
+  MBC_1122_11_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1122_11_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1122_11_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1122_11_ULP.mappability_bias.txt
+  MBC_1125_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1125_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1125_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1125_1_ULP.mappability_bias.txt
+  MBC_1126_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1126_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1126_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1126_2_ULP.mappability_bias.txt
+  MBC_1127_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1127_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1127_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1127_2_ULP.mappability_bias.txt
+  MBC_1127_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1127_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1127_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1127_3_ULP.mappability_bias.txt
+  MBC_1128_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1128_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1128_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1128_1_ULP.mappability_bias.txt
+  MBC_1128_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1128_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1128_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1128_2_ULP.mappability_bias.txt
+  MBC_1128_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1128_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1128_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1128_3_ULP.mappability_bias.txt
+  MBC_1128_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1128_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1128_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1128_4_ULP.mappability_bias.txt
+  MBC_1130_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1130_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1130_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1130_1_ULP.mappability_bias.txt
+  MBC_1133_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1133_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1133_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1133_2_ULP.mappability_bias.txt
+  MBC_1136_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1136_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1136_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1136_3_ULP.mappability_bias.txt
+  MBC_1139_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1139_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1139_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1139_2_ULP.mappability_bias.txt
+  MBC_1146_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1146_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1146_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1146_ULP.mappability_bias.txt
+  MBC_1147_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1147_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1147_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1147_1_ULP.mappability_bias.txt
+  MBC_1149_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1149_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1149_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1149_4_ULP.mappability_bias.txt
+  MBC_1158_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1158_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1158_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1158_ULP.mappability_bias.txt
+  MBC_1159_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1159_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1159_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1159_ULP.mappability_bias.txt
+  MBC_1167_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1167_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1167_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1167_1_ULP.mappability_bias.txt
+  MBC_1167_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1167_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1167_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1167_2_ULP.mappability_bias.txt
+  MBC_1167_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1167_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1167_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1167_4_ULP.mappability_bias.txt
+  MBC_1167_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1167_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1167_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1167_5_ULP.mappability_bias.txt
+  MBC_1168_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1168_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1168_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1168_ULP.mappability_bias.txt
+  MBC_1172_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1172_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1172_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1172_2_ULP.mappability_bias.txt
+  MBC_1182_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1182_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1182_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1182_1_ULP.mappability_bias.txt
+  MBC_1182_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1182_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1182_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1182_2_ULP.mappability_bias.txt
+  MBC_1182_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1182_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1182_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1182_5_ULP.mappability_bias.txt
+  MBC_1190_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1190_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1190_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1190_1_ULP.mappability_bias.txt
+  MBC_1192_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1192_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1192_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1192_2_ULP.mappability_bias.txt
+  MBC_1202_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1202_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1202_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1202_1_ULP.mappability_bias.txt
+  MBC_1208_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1208_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1208_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1208_ULP.mappability_bias.txt
+  MBC_1214_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1214_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1214_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1214_1_ULP.mappability_bias.txt
+  MBC_1215_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1215_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1215_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1215_1_ULP.mappability_bias.txt
+  MBC_1216_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1216_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1216_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1216_1_ULP.mappability_bias.txt
+  MBC_1216_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1216_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1216_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1216_2_ULP.mappability_bias.txt
+  MBC_1217_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1217_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1217_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1217_1_ULP.mappability_bias.txt
+  MBC_1217_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1217_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1217_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1217_2_ULP.mappability_bias.txt
+  MBC_1221_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1221_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1221_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1221_1_ULP.mappability_bias.txt
+  MBC_1221_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1221_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1221_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1221_2_ULP.mappability_bias.txt
+  MBC_1221_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1221_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1221_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1221_3_ULP.mappability_bias.txt
+  MBC_1221_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1221_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1221_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1221_4_ULP.mappability_bias.txt
+  MBC_1228_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1228_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1228_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1228_2_ULP.mappability_bias.txt
+  MBC_1233_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1233_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1233_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1233_1_ULP.mappability_bias.txt
+  MBC_1236_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1236_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1236_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1236_1_ULP.mappability_bias.txt
+  MBC_1253_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1253_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1253_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1253_ULP.mappability_bias.txt
+  MBC_1255_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1255_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1255_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1255_ULP.mappability_bias.txt
+  MBC_1257_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1257_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1257_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1257_ULP.mappability_bias.txt
+  MBC_1261_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1261_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1261_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1261_ULP.mappability_bias.txt
+  MBC_1268_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1268_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1268_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1268_ULP.mappability_bias.txt
+  MBC_1270_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1270_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1270_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1270_ULP.mappability_bias.txt
+  MBC_1272_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1272_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1272_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1272_ULP.mappability_bias.txt
+  MBC_1274_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1274_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1274_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1274_ULP.mappability_bias.txt
+  MBC_1281_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1281_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1281_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1281_1_ULP.mappability_bias.txt
+  MBC_1281_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1281_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1281_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1281_2_ULP.mappability_bias.txt
+  MBC_1284_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1284_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1284_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1284_ULP.mappability_bias.txt
+  MBC_1291_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1291_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1291_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1291_2_ULP.mappability_bias.txt
+  MBC_1292_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1292_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1292_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1292_ULP.mappability_bias.txt
+  MBC_1295_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1295_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1295_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1295_2_ULP.mappability_bias.txt
+  MBC_1297_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1297_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1297_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1297_ULP.mappability_bias.txt
+  MBC_1299_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1299_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1299_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1299_ULP.mappability_bias.txt
+  MBC_1300_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1300_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1300_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1300_ULP.mappability_bias.txt
+  MBC_1303_6_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1303_6_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1303_6_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1303_6_ULP.mappability_bias.txt
+  MBC_1306_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1306_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1306_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1306_2_ULP.mappability_bias.txt
+  MBC_1306_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1306_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1306_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1306_3_ULP.mappability_bias.txt
+  MBC_1306_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1306_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1306_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1306_4_ULP.mappability_bias.txt
+  MBC_1306_6_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1306_6_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1306_6_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1306_6_ULP.mappability_bias.txt
+  MBC_1306_7_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1306_7_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1306_7_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1306_7_ULP.mappability_bias.txt
+  MBC_1308_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1308_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1308_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1308_1_ULP.mappability_bias.txt
+  MBC_1308_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1308_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1308_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1308_3_ULP.mappability_bias.txt
+  MBC_1308_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1308_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1308_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1308_4_ULP.mappability_bias.txt
+  MBC_1308_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1308_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1308_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1308_5_ULP.mappability_bias.txt
+  MBC_1311_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1311_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1311_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1311_1_ULP.mappability_bias.txt
+  MBC_1311_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1311_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1311_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1311_2_ULP.mappability_bias.txt
+  MBC_1312_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1312_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1312_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1312_2_ULP.mappability_bias.txt
+  MBC_1313_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1313_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1313_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1313_ULP.mappability_bias.txt
+  MBC_1314_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1314_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1314_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1314_2_ULP.mappability_bias.txt
+  MBC_1314_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1314_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1314_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1314_3_ULP.mappability_bias.txt
+  MBC_1316_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1316_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1316_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1316_3_ULP.mappability_bias.txt
+  MBC_1316_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1316_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1316_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1316_5_ULP.mappability_bias.txt
+  MBC_1321_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1321_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1321_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1321_ULP.mappability_bias.txt
+  MBC_1322_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1322_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1322_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1322_1_ULP.mappability_bias.txt
+  MBC_1322_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1322_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1322_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1322_3_ULP.mappability_bias.txt
+  MBC_1322_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1322_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1322_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1322_4_ULP.mappability_bias.txt
+  MBC_1322_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1322_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1322_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1322_5_ULP.mappability_bias.txt
+  MBC_1323_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1323_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1323_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1323_ULP.mappability_bias.txt
+  MBC_1324_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1324_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1324_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1324_ULP.mappability_bias.txt
+  MBC_1329_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1329_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1329_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1329_ULP.mappability_bias.txt
+  MBC_1339_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1339_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1339_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1339_ULP.mappability_bias.txt
+  MBC_1340_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1340_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1340_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1340_ULP.mappability_bias.txt
+  MBC_1347_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1347_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1347_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1347_2_ULP.mappability_bias.txt
+  MBC_1364_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1364_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1364_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1364_1_ULP.mappability_bias.txt
+  MBC_1364_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1364_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1364_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1364_3_ULP.mappability_bias.txt
+  MBC_1367_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1367_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1367_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1367_ULP.mappability_bias.txt
+  MBC_1368_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1368_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1368_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1368_1_ULP.mappability_bias.txt
+  MBC_1368_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1368_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1368_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1368_3_ULP.mappability_bias.txt
+  MBC_1370_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1370_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1370_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1370_1_ULP.mappability_bias.txt
+  MBC_1377_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1377_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1377_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1377_1_ULP.mappability_bias.txt
+  MBC_1377_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1377_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1377_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1377_3_ULP.mappability_bias.txt
+  MBC_1378_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1378_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1378_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1378_1_ULP.mappability_bias.txt
+  MBC_1384_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1384_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1384_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1384_3_ULP.mappability_bias.txt
+  MBC_1385_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1385_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1385_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1385_1_ULP.mappability_bias.txt
+  MBC_1385_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1385_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1385_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1385_2_ULP.mappability_bias.txt
+  MBC_1390_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1390_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1390_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1390_2_ULP.mappability_bias.txt
+  MBC_1394_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1394_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1394_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1394_3_ULP.mappability_bias.txt
+  MBC_1394_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1394_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1394_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1394_5_ULP.mappability_bias.txt
+  MBC_1396_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1396_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1396_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1396_ULP.mappability_bias.txt
+  MBC_1399_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1399_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1399_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1399_3_ULP.mappability_bias.txt
+  MBC_1403_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1403_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1403_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1403_1_ULP.mappability_bias.txt
+  MBC_1403_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1403_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1403_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1403_3_ULP.mappability_bias.txt
+  MBC_1403_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1403_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1403_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1403_4_ULP.mappability_bias.txt
+  MBC_1404_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1404_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1404_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1404_1_ULP.mappability_bias.txt
+  MBC_1405_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1405_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1405_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1405_1_ULP.mappability_bias.txt
+  MBC_1405_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1405_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1405_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1405_3_ULP.mappability_bias.txt
+  MBC_1405_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1405_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1405_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1405_4_ULP.mappability_bias.txt
+  MBC_1405_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1405_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1405_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1405_5_ULP.mappability_bias.txt
+  MBC_1405_6_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1405_6_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1405_6_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1405_6_ULP.mappability_bias.txt
+  MBC_1406_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1406_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1406_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1406_1_ULP.mappability_bias.txt
+  MBC_1406_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1406_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1406_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1406_2_ULP.mappability_bias.txt
+  MBC_1406_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1406_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1406_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1406_3_ULP.mappability_bias.txt
+  MBC_1406_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1406_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1406_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1406_5_ULP.mappability_bias.txt
+  MBC_1406_6_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1406_6_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1406_6_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1406_6_ULP.mappability_bias.txt
+  MBC_1406_7_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1406_7_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1406_7_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1406_7_ULP.mappability_bias.txt
+  MBC_1407_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1407_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1407_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1407_1_ULP.mappability_bias.txt
+  MBC_1407_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1407_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1407_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1407_2_ULP.mappability_bias.txt
+  MBC_1407_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1407_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1407_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1407_3_ULP.mappability_bias.txt
+  MBC_1408_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1408_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1408_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1408_ULP.mappability_bias.txt
+  MBC_1409_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1409_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1409_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1409_2_ULP.mappability_bias.txt
+  MBC_1409_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1409_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1409_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1409_5_ULP.mappability_bias.txt
+  MBC_1410_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1410_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1410_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1410_1_ULP.mappability_bias.txt
+  MBC_1410_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1410_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1410_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1410_2_ULP.mappability_bias.txt
+  MBC_1410_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1410_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1410_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1410_3_ULP.mappability_bias.txt
+  MBC_1411_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1411_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1411_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1411_1_ULP.mappability_bias.txt
+  MBC_1411_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1411_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1411_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1411_2_ULP.mappability_bias.txt
+  MBC_1412_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1412_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1412_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1412_1_ULP.mappability_bias.txt
+  MBC_1413_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1413_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1413_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1413_1_ULP.mappability_bias.txt
+  MBC_1413_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1413_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1413_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1413_2_ULP.mappability_bias.txt
+  MBC_1413_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1413_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1413_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1413_3_ULP.mappability_bias.txt
+  MBC_1413_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1413_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1413_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1413_4_ULP.mappability_bias.txt
+  MBC_1413_8_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1413_8_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1413_8_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1413_8_ULP.mappability_bias.txt
+  MBC_1413_9_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1413_9_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1413_9_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1413_9_ULP.mappability_bias.txt
+  MBC_1415_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1415_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1415_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1415_2_ULP.mappability_bias.txt
+  MBC_1415_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1415_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1415_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1415_3_ULP.mappability_bias.txt
+  MBC_1416_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1416_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1416_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1416_1_ULP.mappability_bias.txt
+  MBC_1416_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1416_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1416_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1416_2_ULP.mappability_bias.txt
+  MBC_1416_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1416_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1416_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1416_3_ULP.mappability_bias.txt
+  MBC_1416_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1416_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1416_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1416_4_ULP.mappability_bias.txt
+  MBC_1418_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1418_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1418_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1418_5_ULP.mappability_bias.txt
+  MBC_1419_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1419_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1419_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1419_1_ULP.mappability_bias.txt
+  MBC_1419_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1419_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1419_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1419_2_ULP.mappability_bias.txt
+  MBC_1421_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1421_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1421_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1421_2_ULP.mappability_bias.txt
+  MBC_1421_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1421_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1421_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1421_3_ULP.mappability_bias.txt
+  MBC_1421_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1421_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1421_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1421_5_ULP.mappability_bias.txt
+  MBC_1421_6_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1421_6_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1421_6_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1421_6_ULP.mappability_bias.txt
+  MBC_1421_7_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1421_7_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1421_7_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1421_7_ULP.mappability_bias.txt
+  MBC_1422_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1422_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1422_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1422_3_ULP.mappability_bias.txt
+  MBC_1423_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1423_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1423_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1423_5_ULP.mappability_bias.txt
+  MBC_1423_6_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1423_6_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1423_6_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1423_6_ULP.mappability_bias.txt
+  MBC_1423_7_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1423_7_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1423_7_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1423_7_ULP.mappability_bias.txt
+  MBC_1423_8_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1423_8_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1423_8_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1423_8_ULP.mappability_bias.txt
+  MBC_1423_9_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_1423_9_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_1423_9_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_1423_9_ULP.mappability_bias.txt
+  MBC_191.ctDNA_T2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_191.ctDNA_T2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_191.ctDNA_T2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_191.ctDNA_T2_ULP.mappability_bias.txt
+  MBC_191_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_191_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_191_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_191_2_ULP.mappability_bias.txt
+  MBC_191_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_191_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_191_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_191_3_ULP.mappability_bias.txt
+  MBC_217_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_217_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_217_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_217_1_ULP.mappability_bias.txt
+  MBC_217_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_217_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_217_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_217_2_ULP.mappability_bias.txt
+  MBC_217_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_217_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_217_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_217_3_ULP.mappability_bias.txt
+  MBC_217_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_217_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_217_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_217_4_ULP.mappability_bias.txt
+  MBC_284_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_284_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_284_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_284_2_ULP.mappability_bias.txt
+  MBC_287.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_287.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_287.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_287.ctDNA_ULP.mappability_bias.txt
+  MBC_287_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_287_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_287_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_287_2_ULP.mappability_bias.txt
+  MBC_288.ctDNA_T2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_288.ctDNA_T2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_288.ctDNA_T2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_288.ctDNA_T2_ULP.mappability_bias.txt
+  MBC_288.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_288.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_288.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_288.ctDNA_ULP.mappability_bias.txt
+  MBC_288_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_288_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_288_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_288_2_ULP.mappability_bias.txt
+  MBC_288_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_288_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_288_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_288_3_ULP.mappability_bias.txt
+  MBC_288_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_288_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_288_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_288_4_ULP.mappability_bias.txt
+  MBC_291.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_291.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_291.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_291.ctDNA_ULP.mappability_bias.txt
+  MBC_291_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_291_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_291_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_291_1_ULP.mappability_bias.txt
+  MBC_291_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_291_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_291_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_291_2_ULP.mappability_bias.txt
+  MBC_292_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_292_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_292_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_292_1_ULP.mappability_bias.txt
+  MBC_295_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_295_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_295_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_295_1_ULP.mappability_bias.txt
+  MBC_295_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_295_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_295_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_295_4_ULP.mappability_bias.txt
+  MBC_295_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_295_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_295_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_295_5_ULP.mappability_bias.txt
+  MBC_299.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_299.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_299.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_299.ctDNA_ULP.mappability_bias.txt
+  MBC_307.ctDNA_T2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_307.ctDNA_T2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_307.ctDNA_T2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_307.ctDNA_T2_ULP.mappability_bias.txt
+  MBC_307.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_307.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_307.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_307.ctDNA_ULP.mappability_bias.txt
+  MBC_315_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_315_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_315_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_315_1_ULP.mappability_bias.txt
+  MBC_315_2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_315_2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_315_2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_315_2_ULP.mappability_bias.txt
+  MBC_315_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_315_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_315_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_315_4_ULP.mappability_bias.txt
+  MBC_318.ctDNA_T2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_318.ctDNA_T2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_318.ctDNA_T2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_318.ctDNA_T2_ULP.mappability_bias.txt
+  MBC_318.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_318.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_318.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_318.ctDNA_ULP.mappability_bias.txt
+  MBC_321.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_321.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_321.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_321.ctDNA_ULP.mappability_bias.txt
+  MBC_325.ctDNA_T2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_325.ctDNA_T2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_325.ctDNA_T2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_325.ctDNA_T2_ULP.mappability_bias.txt
+  MBC_331.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_331.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_331.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_331.ctDNA_ULP.mappability_bias.txt
+  MBC_333.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_333.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_333.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_333.ctDNA_ULP.mappability_bias.txt
+  MBC_333_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_333_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_333_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_333_1_ULP.mappability_bias.txt
+  MBC_333_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_333_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_333_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_333_3_ULP.mappability_bias.txt
+  MBC_335.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_335.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_335.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_335.ctDNA_ULP.mappability_bias.txt
+  MBC_335_1_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_335_1_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_335_1_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_335_1_ULP.mappability_bias.txt
+  MBC_335_3_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_335_3_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_335_3_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_335_3_ULP.mappability_bias.txt
+  MBC_339.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_339.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_339.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_339.ctDNA_ULP.mappability_bias.txt
+  MBC_349.ctDNA_T2_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_349.ctDNA_T2_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_349.ctDNA_T2_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_349.ctDNA_T2_ULP.mappability_bias.txt
+  MBC_349.ctDNA_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_349.ctDNA_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_349.ctDNA_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_349.ctDNA_ULP.mappability_bias.txt
+  MBC_349_4_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_349_4_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_349_4_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_349_4_ULP.mappability_bias.txt
+  MBC_349_5_ULP:
+    bam: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC_copy_bams/bam_file_copies/MBC_349_5_ULP_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/GC_bias/MBC_349_5_ULP.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_ULP_GC_and_mappability_correction/results/mappability_bias/MBC_349_5_ULP.mappability_bias.txt

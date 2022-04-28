@@ -1,0 +1,15 @@
+samples:
+  CRPC_554_T2.ctDNA.WGS_FC19306940: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_554_T2.ctDNA.WGS_FC19306940/CRPC_554_T2.ctDNA.WGS_FC19306940_recalibrated.bam
+  CRPC_554_T1.ctDNA.WGS_FC19310441: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_554_T1.ctDNA.WGS_FC19310441/CRPC_554_T1.ctDNA.WGS_FC19310441_recalibrated.bam
+  CRPC_466_T2.ctDNA.WGS.FC19663990: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_466_T2.ctDNA.WGS.FC19663990/CRPC_466_T2.ctDNA.WGS.FC19663990_recalibrated.bam
+  CRPC_248.ctDNA.WGS.FC16207473: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_248.ctDNA.WGS.FC16207473/CRPC_248.ctDNA.WGS.FC16207473_recalibrated.bam
+  CRPC_466_T3.ctDNA.WGS.FC15884472: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_466_T3.ctDNA.WGS.FC15884472/CRPC_466_T3.ctDNA.WGS.FC15884472_recalibrated.bam
+  CRPC_257.ctDNA.WGS.FC15884019: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_257.ctDNA.WGS.FC15884019/CRPC_257.ctDNA.WGS.FC15884019_recalibrated.bam
+  CRPC_161.ctDNA.WGS_FC19663997: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_161.ctDNA.WGS_FC19663997/CRPC_161.ctDNA.WGS_FC19663997_recalibrated.bam
+  CRPC_531_T3.ctDNA.WGS_FC19306923: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_531_T3.ctDNA.WGS_FC19306923/CRPC_531_T3.ctDNA.WGS_FC19306923_recalibrated.bam
+  CRPC_14230_2.ctDNA.WGS.FC19663986: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_14230_2.ctDNA.WGS.FC19663986/CRPC_14230_2.ctDNA.WGS.FC19663986_recalibrated.bam
+  CRPC_531_T1.ctDNA.WGS_FC19663991: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_531_T1.ctDNA.WGS_FC19663991/CRPC_531_T1.ctDNA.WGS_FC19663991_recalibrated.bam
+  CRPC_248_T6.ctDNA.WGS_FC19663992: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_248_T6.ctDNA.WGS_FC19663992/CRPC_248_T6.ctDNA.WGS_FC19663992_recalibrated.bam
+  CRPC_248_T2.ctDNA.WGS_FC19663994: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_248_T2.ctDNA.WGS_FC19663994/CRPC_248_T2.ctDNA.WGS_FC19663994_recalibrated.bam
+  CRPC_531_T2.ctDNA.WGS_FC19663993: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_531_T2.ctDNA.WGS_FC19663993/CRPC_531_T2.ctDNA.WGS_FC19663993_recalibrated.bam
+  CRPC_248_T1.ctDNA.WGS_FC19663995_merge: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_248_T1.ctDNA.WGS_FC19663995_merge/CRPC_248_T1.ctDNA.WGS_FC19663995_merge_recalibrated.bam

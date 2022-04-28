@@ -1,0 +1,1 @@
+liftOver ../sites_hg19/GSE129785_scATAC-Hematopoiesis-All.peaks_hg19.bed /fh/fast/ha_g/user/adoebley/ha_lab_scripts/bin/UCSC_tools/liftOver_chain_files/hg19ToHg38.over.chain ../sites_hg38/GSE129785_scATAC-Hematopoiesis-All.peaks_hg38.bed ../sites_hg38/GSE129785_scATAC-Hematopoiesis-All.peaks_hg38.unmapped.bed

@@ -1,0 +1,17 @@
+samples:
+  MBC_288.ctDNA_T2_deepWGS:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/MBC_288.ctDNA_T2_deepWGS/MBC_288.ctDNA_T2_deepWGS_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/GC_bias/MBC_288.ctDNA_T2_deepWGS.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/mappability_bias/MBC_288.ctDNA_T2_deepWGS.mappability_bias.txt
+  MBC_315.ctDNA_deepWGS:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/MBC_315.ctDNA_deepWGS/MBC_315.ctDNA_deepWGS_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/GC_bias/MBC_315.ctDNA_deepWGS.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/mappability_bias/MBC_315.ctDNA_deepWGS.mappability_bias.txt
+  HD45.ctDNA.WGS.FC19269447:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/HD45.ctDNA.WGS.FC19269447/HD45.ctDNA.WGS.FC19269447_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/GC_bias/HD45.ctDNA.WGS.FC19269447.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/mappability_bias/HD45.ctDNA.WGS.FC19269447.mappability_bias.txt
+  HD46.ctDNA.WGS.FC19269448:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/HD46.ctDNA.WGS.FC19269448/HD46.ctDNA.WGS.FC19269448_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/GC_bias/HD46.ctDNA.WGS.FC19269448.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/mappability_bias/HD46.ctDNA.WGS.FC19269448.mappability_bias.txt

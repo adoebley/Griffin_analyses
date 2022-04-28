@@ -1,0 +1,61 @@
+## read depth params ##
+readCounterScript:  /fh/fast/ha_g/app/bin/readCounter
+chrs:
+  chr1,chr2,chr3,chr4,chr5,chr6,chr7,chr8,chr9,chr10,chr11,chr12,chr13,chr14,chr15,chr16,chr17,chr18,chr19,chr20,chr21,chr22,chrX,chrY
+binSize:  1000000 # set window size to compute coverage
+
+## ichorCNA params ##
+ichorCNA_numCores: 1
+ichorCNA_libdir: ../../
+# included in GitHub repo
+ichorCNA_rscript:  ../runIchorCNA.R
+# use panel matching same bin size (optional)
+ichorCNA_normalPanel: ../../../create_PoN/results/HD_delfi_PoN_hg38_1Mb_median.rds
+# must use gc wig file corresponding to same binSize (required)
+ichorCNA_gcWig: ../../inst/extdata/gc_hg38_1000kb.wig
+# must use map wig file corresponding to same binSize (required)
+ichorCNA_mapWig:  ../../inst/extdata/map_hg38_1000kb.wig
+ichorCNA_repTimeWig: None
+# use bed file if sample has targeted regions, eg. exome data (optional)
+ichorCNA_exons:  NULL
+ichorCNA_centromere:  ../../inst/extdata/GRCh38.GCA_000001405.2_centromere_acen.txt
+ichorCNA_minMapScore: 0.75
+ichorCNA_chrs:  paste0('chr', c(1:22, \"X\"))
+ichorCNA_fracReadsInChrYForMale: 0.001 #modified for delfi data
+ichorCNA_normalizeMaleX: TRUE
+ichorCNA_genomeBuild:  hg38
+ichorCNA_genomeStyle:  UCSC
+
+ichorCNA_sex: None  # use female or male if know the sex of all samples (note every sample must have same sex)
+# chrs used for training ichorCNA parameters, e.g. tumor fraction. 
+ichorCNA_chrTrain:  paste0('chr', c(1:22))
+# non-tumor fraction parameter restart values; higher values should be included for cfDNA
+ichorCNA_normal:  c(0.5,0.6,0.7,0.8,0.9,0.95)
+# ploidy parameter restart values
+ichorCNA_ploidy:  c(2,3)
+ichorCNA_estimateNormal:  TRUE
+ichorCNA_estimatePloidy:  TRUE
+ichorCNA_estimateClonality: TRUE
+# states to use for subclonal CN
+ichorCNA_scStates:  c(1,3)
+# penalize subclonal events - n-fold multiplier; n=1 for no penalty,  
+ichorCNA_scPenalty: 1
+# set maximum copy number to use
+ichorCNA_maxCN:  5
+ichorCNA_likModel: t  # if multisample, use "gauss"
+# TRUE/FALSE to include homozygous deletion state
+ichorCNA_includeHOMD: FALSE
+# Exclude solutions if total length of subclonal CNAs > this fraction of the genome 
+ichorCNA_maxFracGenomeSubclone: 0.5
+# Exclude solutions if total length of subclonal CNAs > this fraction of total CNA length
+ichorCNA_maxFracCNASubclone: 0.7
+# Ignore subclonal analysis when initial normal setting >= this value
+ichorCNA_normal2IgnoreSC: 0.90
+# control segmentation - higher (e.g. 0.9999999) leads to higher specificity and fewer segments
+# lower (e.g. 0.99) leads to higher sensitivity and more segments
+ichorCNA_txnE:  0.9999
+# control segmentation - higher (e.g. 10000000) leads to higher specificity and fewer segments
+# lower (e.g. 100) leads to higher sensitivity and more segments
+ichorCNA_txnStrength:  10000
+ichorCNA_plotFileType:  pdf
+ichorCNA_plotYlim:  c(-2,4)

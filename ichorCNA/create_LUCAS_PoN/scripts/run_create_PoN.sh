@@ -1,0 +1,11 @@
+Rscript ../../ichorCNA/scripts/createPanelOfNormals.R \
+	--gcWig ../../ichorCNA/inst/extdata/gc_hg38_1000kb.wig \
+	--mapWig ../../ichorCNA/inst/extdata/map_hg38_1000kb.wig \
+	--filelist 1mb_LUCAS_control_wigs.txt --outfile ../results/LUCAS_control_PoN_hg38_1Mb \
+	--centromere ../../ichorCNA/inst/extdata/GRCh38.GCA_000001405.2_centromere_acen.txt \
+	--chrs "paste0('chr', c(1:22, \"X\",\"Y\"))" \
+	--genomeStyle UCSC \
+	--chrNormalize "paste0('chr', c(1:22))" \
+	--maleChrXLogRThres -0.5 \
+	--fracReadsInChrYForMale 0.001 \
+	--libdir ../../ichorCNA/

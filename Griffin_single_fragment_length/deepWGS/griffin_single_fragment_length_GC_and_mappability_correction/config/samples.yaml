@@ -1,0 +1,5 @@
+samples:
+  MBC_288.ctDNA_T2_deepWGS: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/MBC_288.ctDNA_T2_deepWGS/MBC_288.ctDNA_T2_deepWGS_recalibrated.bam
+  MBC_315.ctDNA_deepWGS: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/MBC_315.ctDNA_deepWGS/MBC_315.ctDNA_deepWGS_recalibrated.bam
+  HD45.ctDNA.WGS.FC19269447: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/HD45.ctDNA.WGS.FC19269447/HD45.ctDNA.WGS.FC19269447_recalibrated.bam
+  HD46.ctDNA.WGS.FC19269448: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/HD46.ctDNA.WGS.FC19269448/HD46.ctDNA.WGS.FC19269448_recalibrated.bam

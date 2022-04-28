@@ -7,19 +7,19 @@ Doebley, et al. Griffin: Framework for clinical cancer subtyping from nucleosome
 
 Versions of packages used in the scripts:  
 
-argparse 1.1
-pandas 1.3.2
-pysam 0.15.4
-numpy 1.21.2
-scipy 1.7.1
-pyyaml 5.3.1
-pyBigWig 0.3.17
-pybedtools 0.8.0
-matplotlib 3.4.1
-scikit-learn 0.23.2
-pingouin 0.5.1
-pybedtools 0.8.0
-statsmodels 0.13.2
+argparse 1.1  
+pandas 1.3.2  
+pysam 0.15.4  
+numpy 1.21.2  
+scipy 1.7.1  
+pyyaml 5.3.1  
+pyBigWig 0.3.17  
+pybedtools 0.8.0  
+matplotlib 3.4.1  
+scikit-learn 0.23.2  
+pingouin 0.5.1  
+pybedtools 0.8.0  
+statsmodels 0.13.2  
 
 
 Other software used for analyses in the manuscript:  

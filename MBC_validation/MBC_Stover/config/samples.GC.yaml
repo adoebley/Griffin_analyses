@@ -1,0 +1,413 @@
+samples:
+  B-519743_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-519743_1/B-519743_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-519743_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-519743_1.mappability_bias.txt
+  C-526243_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-526243_1/C-526243_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-526243_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-526243_1.mappability_bias.txt
+  B-521244_4:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-521244_4/B-521244_4_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-521244_4.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-521244_4.mappability_bias.txt
+  B-518705_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518705_2/B-518705_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518705_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518705_2.mappability_bias.txt
+  B-521244_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-521244_1/B-521244_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-521244_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-521244_1.mappability_bias.txt
+  B-525174_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-525174_3/B-525174_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-525174_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-525174_3.mappability_bias.txt
+  B-525174_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-525174_2/B-525174_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-525174_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-525174_2.mappability_bias.txt
+  C-515648_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-515648_1/C-515648_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-515648_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-515648_1.mappability_bias.txt
+  B-515465_5:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-515465_5/B-515465_5_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-515465_5.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-515465_5.mappability_bias.txt
+  C-526224_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-526224_1/C-526224_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-526224_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-526224_1.mappability_bias.txt
+  C-519473_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-519473_1/C-519473_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-519473_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-519473_1.mappability_bias.txt
+  B-523847_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-523847_1/B-523847_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-523847_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-523847_1.mappability_bias.txt
+  B-518638_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518638_3/B-518638_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518638_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518638_3.mappability_bias.txt
+  B-515465_7:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-515465_7/B-515465_7_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-515465_7.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-515465_7.mappability_bias.txt
+  C-515686_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-515686_1/C-515686_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-515686_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-515686_1.mappability_bias.txt
+  C-524513_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-524513_1/C-524513_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-524513_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-524513_1.mappability_bias.txt
+  B-525174_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-525174_1/B-525174_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-525174_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-525174_1.mappability_bias.txt
+  B-518638_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518638_1/B-518638_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518638_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518638_1.mappability_bias.txt
+  B-519743_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-519743_3/B-519743_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-519743_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-519743_3.mappability_bias.txt
+  B-518724_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518724_2/B-518724_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518724_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518724_2.mappability_bias.txt
+  C-522112_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-522112_2/C-522112_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-522112_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-522112_2.mappability_bias.txt
+  C-521621_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-521621_2/C-521621_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-521621_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-521621_2.mappability_bias.txt
+  C-518690_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-518690_2/C-518690_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-518690_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-518690_2.mappability_bias.txt
+  C-526224_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-526224_2/C-526224_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-526224_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-526224_2.mappability_bias.txt
+  C-155453_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-155453_2/C-155453_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-155453_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-155453_2.mappability_bias.txt
+  C-524513_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-524513_2/C-524513_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-524513_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-524513_2.mappability_bias.txt
+  C-515686_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-515686_2/C-515686_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-515686_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-515686_2.mappability_bias.txt
+  C-519813_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-519813_2/C-519813_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-519813_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-519813_2.mappability_bias.txt
+  C-520735_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-520735_2/C-520735_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-520735_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-520735_2.mappability_bias.txt
+  C-519584_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-519584_2/C-519584_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-519584_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-519584_2.mappability_bias.txt
+  C-521931_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-521931_2/C-521931_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-521931_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-521931_2.mappability_bias.txt
+  C-515648_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-515648_2/C-515648_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-515648_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-515648_2.mappability_bias.txt
+  C-526243_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-526243_2/C-526243_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-526243_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-526243_2.mappability_bias.txt
+  C-520636_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-520636_2/C-520636_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-520636_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-520636_2.mappability_bias.txt
+  C-526380_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-526380_2/C-526380_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-526380_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-526380_2.mappability_bias.txt
+  C-519349_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-519349_2/C-519349_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-519349_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-519349_2.mappability_bias.txt
+  C-521603_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-521603_2/C-521603_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-521603_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-521603_2.mappability_bias.txt
+  C-525147_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-525147_2/C-525147_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-525147_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-525147_2.mappability_bias.txt
+  C-526643_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-526643_2/C-526643_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-526643_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-526643_2.mappability_bias.txt
+  C-519473_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-519473_2/C-519473_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-519473_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-519473_2.mappability_bias.txt
+  B-518705_4:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518705_4/B-518705_4_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518705_4.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518705_4.mappability_bias.txt
+  B-5915_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-5915_2/B-5915_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-5915_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-5915_2.mappability_bias.txt
+  C-519584_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-519584_1/C-519584_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-519584_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-519584_1.mappability_bias.txt
+  C-520735_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-520735_1/C-520735_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-520735_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-520735_1.mappability_bias.txt
+  C-521603_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-521603_1/C-521603_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-521603_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-521603_1.mappability_bias.txt
+  B-521244_6:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-521244_6/B-521244_6_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-521244_6.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-521244_6.mappability_bias.txt
+  B-5915_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-5915_3/B-5915_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-5915_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-5915_3.mappability_bias.txt
+  C-518690_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-518690_1/C-518690_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-518690_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-518690_1.mappability_bias.txt
+  B-5915_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-5915_1/B-5915_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-5915_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-5915_1.mappability_bias.txt
+  B-521244_5:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-521244_5/B-521244_5_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-521244_5.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-521244_5.mappability_bias.txt
+  B-519743_4:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-519743_4/B-519743_4_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-519743_4.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-519743_4.mappability_bias.txt
+  B-518728_9:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518728_9/B-518728_9_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518728_9.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518728_9.mappability_bias.txt
+  B-521244_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-521244_3/B-521244_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-521244_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-521244_3.mappability_bias.txt
+  B-518705_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518705_3/B-518705_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518705_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518705_3.mappability_bias.txt
+  B-515465_8:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-515465_8/B-515465_8_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-515465_8.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-515465_8.mappability_bias.txt
+  B-519743_6:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-519743_6/B-519743_6_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-519743_6.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-519743_6.mappability_bias.txt
+  C-519349_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-519349_1/C-519349_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-519349_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-519349_1.mappability_bias.txt
+  B-518728_4:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518728_4/B-518728_4_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518728_4.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518728_4.mappability_bias.txt
+  B-518724_7:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518724_7/B-518724_7_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518724_7.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518724_7.mappability_bias.txt
+  C-526380_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-526380_1/C-526380_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-526380_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-526380_1.mappability_bias.txt
+  C-520636_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-520636_1/C-520636_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-520636_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-520636_1.mappability_bias.txt
+  C-526643_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-526643_1/C-526643_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-526643_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-526643_1.mappability_bias.txt
+  B-518724_4:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518724_4/B-518724_4_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518724_4.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518724_4.mappability_bias.txt
+  B-518705_5:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518705_5/B-518705_5_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518705_5.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518705_5.mappability_bias.txt
+  B-518728_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518728_1/B-518728_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518728_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518728_1.mappability_bias.txt
+  B-521244_8:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-521244_8/B-521244_8_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-521244_8.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-521244_8.mappability_bias.txt
+  B-515465_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-515465_2/B-515465_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-515465_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-515465_2.mappability_bias.txt
+  B-519743_8:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-519743_8/B-519743_8_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-519743_8.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-519743_8.mappability_bias.txt
+  C-519813_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-519813_1/C-519813_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-519813_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-519813_1.mappability_bias.txt
+  B-518728_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518728_3/B-518728_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518728_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518728_3.mappability_bias.txt
+  B-518638_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518638_2/B-518638_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518638_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518638_2.mappability_bias.txt
+  B-518638_5:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518638_5/B-518638_5_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518638_5.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518638_5.mappability_bias.txt
+  B-518724_8:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518724_8/B-518724_8_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518724_8.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518724_8.mappability_bias.txt
+  B-518728_6:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518728_6/B-518728_6_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518728_6.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518728_6.mappability_bias.txt
+  B-519743_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-519743_2/B-519743_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-519743_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-519743_2.mappability_bias.txt
+  B-518728_8:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518728_8/B-518728_8_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518728_8.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518728_8.mappability_bias.txt
+  B-518728_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518728_2/B-518728_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518728_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518728_2.mappability_bias.txt
+  B-523847_4:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-523847_4/B-523847_4_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-523847_4.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-523847_4.mappability_bias.txt
+  C-522112_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-522112_1/C-522112_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-522112_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-522112_1.mappability_bias.txt
+  B-515465_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-515465_1/B-515465_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-515465_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-515465_1.mappability_bias.txt
+  B-518638_6:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518638_6/B-518638_6_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518638_6.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518638_6.mappability_bias.txt
+  B-519743_5:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-519743_5/B-519743_5_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-519743_5.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-519743_5.mappability_bias.txt
+  B-518705_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518705_1/B-518705_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518705_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518705_1.mappability_bias.txt
+  B-518728_7:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518728_7/B-518728_7_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518728_7.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518728_7.mappability_bias.txt
+  B-518724_6:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518724_6/B-518724_6_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518724_6.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518724_6.mappability_bias.txt
+  B-523847_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-523847_3/B-523847_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-523847_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-523847_3.mappability_bias.txt
+  B-518724_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518724_1/B-518724_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518724_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518724_1.mappability_bias.txt
+  B-518638_4:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518638_4/B-518638_4_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518638_4.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518638_4.mappability_bias.txt
+  C-521931_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-521931_1/C-521931_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-521931_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-521931_1.mappability_bias.txt
+  B-521244_7:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-521244_7/B-521244_7_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-521244_7.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-521244_7.mappability_bias.txt
+  B-518728_5:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518728_5/B-518728_5_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518728_5.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518728_5.mappability_bias.txt
+  B-519743_7:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-519743_7/B-519743_7_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-519743_7.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-519743_7.mappability_bias.txt
+  C-521621_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-521621_1/C-521621_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-521621_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-521621_1.mappability_bias.txt
+  B-518724_5:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518724_5/B-518724_5_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518724_5.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518724_5.mappability_bias.txt
+  B-523847_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-523847_2/B-523847_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-523847_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-523847_2.mappability_bias.txt
+  B-518724_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518724_3/B-518724_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518724_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518724_3.mappability_bias.txt
+  C-155453_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-155453_1/C-155453_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-155453_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-155453_1.mappability_bias.txt
+  C-525147_1:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/C-525147_1/C-525147_1_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/C-525147_1.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/C-525147_1.mappability_bias.txt
+  B-515465_6:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-515465_6/B-515465_6_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-515465_6.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-515465_6.mappability_bias.txt
+  B-515465_4:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-515465_4/B-515465_4_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-515465_4.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-515465_4.mappability_bias.txt
+  B-515465_3:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-515465_3/B-515465_3_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-515465_3.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-515465_3.mappability_bias.txt
+  B-521244_2:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-521244_2/B-521244_2_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-521244_2.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-521244_2.mappability_bias.txt
+  B-518638_7:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Stover-Lab-MBC-ULP_hg38/realignment_results/B-518638_7/B-518638_7_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/GC_bias/B-518638_7.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Stover_GC_and_mappability_correction/results/mappability_bias/B-518638_7.mappability_bias.txt

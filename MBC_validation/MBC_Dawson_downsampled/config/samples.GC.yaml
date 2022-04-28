@@ -1,0 +1,109 @@
+samples:
+  MBCB234_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB234_plasma/MBCB234_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB234_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB234_plasma.mappability_bias.txt
+  MBCB043_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB043_plasma/MBCB043_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB043_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB043_plasma.mappability_bias.txt
+  MBCB177_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB177_plasma/MBCB177_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB177_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB177_plasma.mappability_bias.txt
+  MBCB129_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB129_plasma/MBCB129_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB129_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB129_plasma.mappability_bias.txt
+  MBCB148_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB148_plasma/MBCB148_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB148_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB148_plasma.mappability_bias.txt
+  MBCB076_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB076_plasma/MBCB076_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB076_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB076_plasma.mappability_bias.txt
+  MBCB062_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB062_plasma/MBCB062_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB062_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB062_plasma.mappability_bias.txt
+  MBCB066_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB066_plasma/MBCB066_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB066_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB066_plasma.mappability_bias.txt
+  MBCB020_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB020_plasma/MBCB020_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB020_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB020_plasma.mappability_bias.txt
+  MBCB053_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB053_plasma/MBCB053_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB053_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB053_plasma.mappability_bias.txt
+  MBCB061_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB061_plasma/MBCB061_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB061_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB061_plasma.mappability_bias.txt
+  MBCB155_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB155_plasma/MBCB155_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB155_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB155_plasma.mappability_bias.txt
+  MBCB236_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB236_plasma/MBCB236_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB236_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB236_plasma.mappability_bias.txt
+  MBCB023_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB023_plasma/MBCB023_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB023_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB023_plasma.mappability_bias.txt
+  MBCB071_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB071_plasma/MBCB071_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB071_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB071_plasma.mappability_bias.txt
+  MBCB041_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB041_plasma/MBCB041_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB041_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB041_plasma.mappability_bias.txt
+  MBCB001_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB001_plasma/MBCB001_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB001_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB001_plasma.mappability_bias.txt
+  MBCB077_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB077_plasma/MBCB077_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB077_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB077_plasma.mappability_bias.txt
+  MBCB056_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB056_plasma/MBCB056_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB056_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB056_plasma.mappability_bias.txt
+  MBCB007_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB007_plasma/MBCB007_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB007_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB007_plasma.mappability_bias.txt
+  MBCB171_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB171_plasma/MBCB171_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB171_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB171_plasma.mappability_bias.txt
+  MBCB086_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB086_plasma/MBCB086_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB086_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB086_plasma.mappability_bias.txt
+  MBCB068_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB068_plasma/MBCB068_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB068_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB068_plasma.mappability_bias.txt
+  MBCB125_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB125_plasma/MBCB125_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB125_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB125_plasma.mappability_bias.txt
+  MBCB054_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB054_plasma/MBCB054_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB054_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB054_plasma.mappability_bias.txt
+  MBCB015_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB015_plasma/MBCB015_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB015_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB015_plasma.mappability_bias.txt
+  MBCB166_plasma:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_MBC-Dawson/fastq_to_bam_paired_snakemake_hg38/downsample_bam/results/MBCB166_plasma/MBCB166_plasma_downsampled.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/GC_bias/MBCB166_plasma.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/MBC_Dawson_downsampled_GC_and_mappability_correction/results/mappability_bias/MBCB166_plasma.mappability_bias.txt

@@ -1,0 +1,1 @@
+python3 /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC/scripts/MBC_run_logreg_bootstrap_PCA.py --in_file merged_data/Ulz_MBC_merged.txt --name Ulz_MBC --status_column revisions_ER_status_binary --iterations 1000 --out_dir logreg_results/Ulz_MBC_logreg_results --report_interval 50 --fraction_variance 0.8

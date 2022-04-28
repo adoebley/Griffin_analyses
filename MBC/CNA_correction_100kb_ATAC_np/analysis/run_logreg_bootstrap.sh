@@ -1,0 +1,1 @@
+python3 /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC/scripts/MBC_run_logreg_bootstrap_functions.py --in_file merged_data/5e-4_qval_reformatted.txt --name 5e-4_qval --iterations 1000 --out_dir 5e-4_qval_logreg_results --report_interval 50 --script_path /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/MBC/scripts

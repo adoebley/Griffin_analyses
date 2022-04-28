@@ -1,0 +1,5 @@
+site_lists:
+  ER_neg_heme.5e-4_qval: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/sites/TCGA_ATAC/ER_differential/sites_by_qval/ER_neg_heme.5e-4_qval.DESeq2.txt
+  ER_pos_heme.5e-4_qval: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/sites/TCGA_ATAC/ER_differential/sites_by_qval/ER_pos_heme.5e-4_qval.DESeq2.txt
+  ER_pos_specific.5e-4_qval: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/sites/TCGA_ATAC/ER_differential/sites_by_qval/ER_pos_specific.5e-4_qval.DESeq2.txt
+  ER_neg_specific.5e-4_qval: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/sites/TCGA_ATAC/ER_differential/sites_by_qval/ER_neg_specific.5e-4_qval.DESeq2.txt

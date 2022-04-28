@@ -1,0 +1,121 @@
+samples:
+  P04_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P04_30x/P04_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P04_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P04_30x.mappability_bias.txt
+  P15_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P15_30x/P15_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P15_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P15_30x.mappability_bias.txt
+  P06_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P06_30x/P06_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P06_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P06_30x.mappability_bias.txt
+  P11_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P11_30x/P11_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P11_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P11_30x.mappability_bias.txt
+  P05_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P05_30x/P05_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P05_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P05_30x.mappability_bias.txt
+  P12_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P12_30x/P12_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P12_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P12_30x.mappability_bias.txt
+  P09_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P09_30x/P09_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P09_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P09_30x.mappability_bias.txt
+  P13_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P13_30x/P13_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P13_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P13_30x.mappability_bias.txt
+  P14_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P14_30x/P14_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P14_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P14_30x.mappability_bias.txt
+  P07_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P07_30x/P07_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P07_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P07_30x.mappability_bias.txt
+  P10_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P10_30x/P10_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P10_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P10_30x.mappability_bias.txt
+  P02_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P02_30x/P02_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P02_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P02_30x.mappability_bias.txt
+  P03_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P03_30x/P03_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P03_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P03_30x.mappability_bias.txt
+  P01_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P01_30x/P01_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P01_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P01_30x.mappability_bias.txt
+  P15_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P15_01x/P15_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P15_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P15_01x.mappability_bias.txt
+  P11_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P11_01x/P11_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P11_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P11_01x.mappability_bias.txt
+  P04_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P04_01x/P04_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P04_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P04_01x.mappability_bias.txt
+  P10_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P10_01x/P10_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P10_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P10_01x.mappability_bias.txt
+  P12_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P12_01x/P12_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P12_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P12_01x.mappability_bias.txt
+  P06_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P06_01x/P06_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P06_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P06_01x.mappability_bias.txt
+  P07_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P07_01x/P07_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P07_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P07_01x.mappability_bias.txt
+  P09_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P09_01x/P09_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P09_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P09_01x.mappability_bias.txt
+  P02_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P02_01x/P02_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P02_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P02_01x.mappability_bias.txt
+  P05_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P05_01x/P05_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P05_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P05_01x.mappability_bias.txt
+  P14_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P14_01x/P14_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P14_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P14_01x.mappability_bias.txt
+  P03_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P03_01x/P03_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P03_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P03_01x.mappability_bias.txt
+  P01_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P01_01x/P01_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P01_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P01_01x.mappability_bias.txt
+  P13_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P13_01x/P13_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P13_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P13_01x.mappability_bias.txt
+  P08_01x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P08_01x/P08_01x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P08_01x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P08_01x.mappability_bias.txt
+  P08_30x:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_Ghana-BRCA_hg38/realignment_results/P08_30x/P08_30x_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/GC_bias/P08_30x.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/BRCA_Ghana_GC_and_mappability_correction/results/mappability_bias/P08_30x.mappability_bias.txt
