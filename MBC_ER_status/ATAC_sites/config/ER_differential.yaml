@@ -1,5 +1,0 @@
-site_files:
-  ER_neg_0_5_FC: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/TCGA_ATAC/ER_differential/sites/ER_neg_0_5_FC.new.txt
-  ER_neg_heme_0_5_FC: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/TCGA_ATAC/ER_differential/sites/ER_neg_heme_0_5_FC.new.txt
-  ER_pos_0_5_FC: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/TCGA_ATAC/ER_differential/sites/ER_pos_0_5_FC.new.txt
-  ER_pos_heme_0_5_FC: /fh/fast/ha_g/user/adoebley/projects/griffin_paper/sites/TCGA_ATAC/ER_differential/sites/ER_pos_heme_0_5_FC.new.txt

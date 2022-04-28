@@ -1,0 +1,1 @@
+python3 /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/delfi_data_cancer_detection/scripts/run_logreg_bootstrap_PCA.py --in_file merged_data/uncorrected_reformatted.txt --name uncorrected --iterations 1000 --out_dir logreg_PCA_results/uncorrected_logreg_results --fraction_variance .8 --report_interval 50

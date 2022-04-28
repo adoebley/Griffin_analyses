@@ -1,0 +1,424 @@
+sample	original_bam_file	sample_type	tumor_fraction	Stage	median_probability_cancer_1-2x_WGS	cancer_predicted_1-2x_WGS	median_probability_cancer_ULP_WGS	cancer_predicted_ULP_WGS
+Bile_Duct_Cancer_CGPLPA114	PGDX17758P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.02606	II	0.43994	0	0.24745	0
+Bile_Duct_Cancer_CGPLPA115	PGDX17759P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.05922	IV	0.9841599999999999	1	0.99404	1
+Bile_Duct_Cancer_CGPLPA117	PGDX17726P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.0	II	0.48294	0	0.31354	0
+Bile_Duct_Cancer_CGPLPA118	PGDX8173P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.02789	I	0.92899	1	0.9730650000000001	1
+Bile_Duct_Cancer_CGPLPA122	PGDX8174P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.04373	II	0.99971	1	0.99999	1
+Bile_Duct_Cancer_CGPLPA124	PGDX8175P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.0	II	0.95844	1	0.98484	1
+Bile_Duct_Cancer_CGPLPA125	PGDX16597P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.0	II	0.56037	1	0.81911	1
+Bile_Duct_Cancer_CGPLPA126	PGDX8176P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.05578	II	0.99981	1	1.0	1
+Bile_Duct_Cancer_CGPLPA127	PGDX16605P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.03024	IV	0.99978	1	1.0	1
+Bile_Duct_Cancer_CGPLPA128	PGDX8256P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.02664	II	0.81597	1	0.87629	1
+Bile_Duct_Cancer_CGPLPA129	PGDX8257P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.02298	II	0.97376	1	0.9984999999999999	1
+Bile_Duct_Cancer_CGPLPA130	PGDX8258P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.0	II	0.94069	1	0.99283	1
+Bile_Duct_Cancer_CGPLPA131	PGDX8259P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.0	II	0.44301	0	0.295215	0
+Bile_Duct_Cancer_CGPLPA134	PGDX8260P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.06056	II	0.9848950000000001	1	0.9880899999999999	1
+Bile_Duct_Cancer_CGPLPA135	PGDX16604P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.01425	I	0.73072	1	0.64139	1
+Bile_Duct_Cancer_CGPLPA136	PGDX8261P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.04529	II	0.9822150000000001	1	0.999865	1
+Bile_Duct_Cancer_CGPLPA137	PGDX16608P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.0	II	0.74559	1	0.918185	1
+Bile_Duct_Cancer_CGPLPA139	PGDX16607P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.0	IV	0.87451	1	0.94381	1
+Bile_Duct_Cancer_CGPLPA140	PGDX8262P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.04051	II	0.98601	1	0.99797	1
+Bile_Duct_Cancer_CGPLPA141	PGDX16598P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.04357	II	0.99998	1	1.0	1
+Bile_Duct_Cancer_CGPLPA155	PGDX16606P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.03813	II	0.95485	1	0.99607	1
+Bile_Duct_Cancer_CGPLPA165	PGDX16603P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.0	I	0.73565	1	0.77133	1
+Bile_Duct_Cancer_CGPLPA168	PGDX17757P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.05488	II	0.999115	1	0.9997750000000001	1
+Bile_Duct_Cancer_CGPLPA184	PGDX16601P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.01241	II	0.99528	1	0.99989	1
+Bile_Duct_Cancer_CGPLPA187	PGDX16600P_WGS.sorted_processed.bam	Bile_Duct_Cancer	0.0	II	0.984435	1	0.999905	1
+Breast_Cancer_CGPLBR100	PGDX7571P1_WGS.sorted_processed.bam	Breast_Cancer	0.008334	III	0.87503	1	0.9661850000000001	1
+Breast_Cancer_CGPLBR101	PGDX7572P_WGS.sorted_processed.bam	Breast_Cancer	0.0	II	0.683505	1	0.6099600000000001	1
+Breast_Cancer_CGPLBR102	PGDX7573P1_WGS.sorted_processed.bam	Breast_Cancer	0.0	II	0.80616	1	0.96622	1
+Breast_Cancer_CGPLBR103	PGDX7574P1_WGS.sorted_processed.bam	Breast_Cancer	0.02131	II	0.41395000000000004	0	0.582335	1
+Breast_Cancer_CGPLBR104	PGDX7575P_WGS.sorted_processed.bam	Breast_Cancer	0.02645	II	0.98224	1	0.97626	1
+Breast_Cancer_CGPLBR12	PGDX2261P1_WGS_X1.sorted_processed.bam	Breast_Cancer	0.02746	III	0.61551	1	0.620645	1
+Breast_Cancer_CGPLBR18	PGDX2263P1_WGS_X1.sorted_processed.bam	Breast_Cancer	0.02945	III	0.90604	1	0.8033349999999999	1
+Breast_Cancer_CGPLBR23	PGDX2749P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.0	II	0.53193	1	0.86402	1
+Breast_Cancer_CGPLBR24	PGDX2750P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.02752	II	0.99214	1	0.98992	1
+Breast_Cancer_CGPLBR28	PGDX3184P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.02791	III	0.69451	1	0.806825	1
+Breast_Cancer_CGPLBR30	PGDX3185P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.2644	II	0.99999	1	1.0	1
+Breast_Cancer_CGPLBR31	PGDX3186P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.0	II	0.9021250000000001	1	0.9993749999999999	1
+Breast_Cancer_CGPLBR32	PGDX3187P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.03518	II	0.99306	1	0.99998	1
+Breast_Cancer_CGPLBR33	PGDX3188P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.0	II	0.7673	1	0.47166	0
+Breast_Cancer_CGPLBR34	PGDX3189P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.0	II	0.90195	1	0.885035	1
+Breast_Cancer_CGPLBR35	PGDX3190P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.0	II	0.5418799999999999	1	0.29132	0
+Breast_Cancer_CGPLBR36	PGDX3191P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.02632	II	0.09562	0	0.02068	0
+Breast_Cancer_CGPLBR37	PGDX3192P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.0	II	0.30198	0	0.275145	0
+Breast_Cancer_CGPLBR38	PGDX7353P_WGS.sorted_processed.bam	Breast_Cancer	0.01977	I	0.87861	1	0.52946	1
+Breast_Cancer_CGPLBR40	PGDX7355P_WGS.sorted_processed.bam	Breast_Cancer	0.02614	III	0.80956	1	0.95449	1
+Breast_Cancer_CGPLBR41	PGDX7356P_WGS.sorted_processed.bam	Breast_Cancer	0.0	III	0.62267	1	0.91654	1
+Breast_Cancer_CGPLBR45	PGDX4710P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.01485	II	0.35355	0	0.58049	1
+Breast_Cancer_CGPLBR46	PGDX4711P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.02426	III	0.99339	1	0.994305	1
+Breast_Cancer_CGPLBR47	PGDX4712P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.02248	I	0.79499	1	0.98286	1
+Breast_Cancer_CGPLBR48	PGDX7360P_WGS.sorted_processed.bam	Breast_Cancer	0.05101	II	1.0	1	1.0	1
+Breast_Cancer_CGPLBR49	PGDX7361P_WGS.sorted_processed.bam	Breast_Cancer	0.03973	II	1.0	1	1.0	1
+Breast_Cancer_CGPLBR50	PGDX4713P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.01947	I	0.992605	1	0.999745	1
+Breast_Cancer_CGPLBR51	PGDX4714P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.01431	II	0.947535	1	0.99612	1
+Breast_Cancer_CGPLBR52	PGDX4715P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.03979	III	0.410535	0	0.24206	0
+Breast_Cancer_CGPLBR55	PGDX7363P_WGS.sorted_processed.bam	Breast_Cancer	0.01536	III	0.86575	1	0.96827	1
+Breast_Cancer_CGPLBR56	PGDX4717P_WGS_X1.sorted_processed.bam	Breast_Cancer	0.0	II	0.909875	1	0.956455	1
+Breast_Cancer_CGPLBR57	PGDX7364P_WGS.sorted_processed.bam	Breast_Cancer	0.0	III	0.51148	1	0.43092	0
+Breast_Cancer_CGPLBR59	PGDX7365P1_WGS.sorted_processed.bam	Breast_Cancer	0.0	I	0.16761	0	0.46442	0
+Breast_Cancer_CGPLBR60	PGDX4719P_WGS.sorted_processed.bam	Breast_Cancer	0.0	II	0.0983	0	0.0887	0
+Breast_Cancer_CGPLBR61	PGDX7477P1_WGS.sorted_processed.bam	Breast_Cancer	0.0	II	0.94019	1	0.99891	1
+Breast_Cancer_CGPLBR63	PGDX7478P1_WGS.sorted_processed.bam	Breast_Cancer	0.0244	II	0.94863	1	0.99594	1
+Breast_Cancer_CGPLBR65	PGDX4720P_WGS.sorted_processed.bam	Breast_Cancer	0.0132	II	0.9696	1	0.99622	1
+Breast_Cancer_CGPLBR68	PGDX7482P_WGS.sorted_processed.bam	Breast_Cancer	0.03756	III	0.6196699999999999	1	0.8339300000000001	1
+Breast_Cancer_CGPLBR69	PGDX7483P1_WGS.sorted_processed.bam	Breast_Cancer	0.0	II	0.5735699999999999	1	0.5346500000000001	1
+Breast_Cancer_CGPLBR70	PGDX7484P1_WGS.sorted_processed.bam	Breast_Cancer	0.0	II	0.77519	1	0.95174	1
+Breast_Cancer_CGPLBR71	PGDX7485P1_WGS.sorted_processed.bam	Breast_Cancer	0.009986	II	0.92433	1	0.97665	1
+Breast_Cancer_CGPLBR72	PGDX7486P1_WGS.sorted_processed.bam	Breast_Cancer	0.03836	II	0.30183	0	0.04654	0
+Breast_Cancer_CGPLBR73	PGDX7487P1_WGS.sorted_processed.bam	Breast_Cancer	0.0	II	0.6524449999999999	1	0.57972	1
+Breast_Cancer_CGPLBR76	PGDX7490P_WGS.sorted_processed.bam	Breast_Cancer	0.02022	II	0.696705	1	0.95052	1
+Breast_Cancer_CGPLBR81	PGDX4722P_WGS.sorted_processed.bam	Breast_Cancer	0.02899	II	0.99999	1	1.0	1
+Breast_Cancer_CGPLBR82	PGDX7494P_WGS.sorted_processed.bam	Breast_Cancer	0.02191	I	0.985205	1	0.92862	1
+Breast_Cancer_CGPLBR83	PGDX7495P_WGS.sorted_processed.bam	Breast_Cancer	0.03096	II	0.998965	1	1.0	1
+Breast_Cancer_CGPLBR84	PGDX4723P_WGS.sorted_processed.bam	Breast_Cancer	0.02865	III	1.0	1	1.0	1
+Breast_Cancer_CGPLBR87	PGDX7563P_WGS.sorted_processed.bam	Breast_Cancer	0.02755	II	1.0	1	1.0	1
+Breast_Cancer_CGPLBR88	PGDX7564P_WGS.sorted_processed.bam	Breast_Cancer	0.02489	II	1.0	1	1.0	1
+Breast_Cancer_CGPLBR90	PGDX4725P_WGS.sorted_processed.bam	Breast_Cancer	0.02736	II	0.998985	1	0.999915	1
+Breast_Cancer_CGPLBR91	PGDX7565P_WGS.sorted_processed.bam	Breast_Cancer	0.0	III	0.90017	1	0.76571	1
+Breast_Cancer_CGPLBR92	PGDX7566P_WGS.sorted_processed.bam	Breast_Cancer	0.02412	II	0.94245	1	0.9254	1
+Breast_Cancer_CGPLBR93	PGDX7567P1_WGS.sorted_processed.bam	Breast_Cancer	0.0	II	0.87031	1	0.99579	1
+Colorectal_Cancer_CGCRC291	PGDX5881P_WGS_processed_downsamp.bam	Colorectal_Cancer	0.6918	IV	0.99991	1	0.9999750000000001	1
+Colorectal_Cancer_CGCRC292	PGDX5882P_WGS_processed_downsamp.bam	Colorectal_Cancer	0.05273	IV	0.83172	1	0.42442	0
+Colorectal_Cancer_CGCRC293	PGDX5883P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.02048	IV	0.87554	1	0.96142	1
+Colorectal_Cancer_CGCRC294	PGDX5884P_WGS_processed_downsamp.bam	Colorectal_Cancer	0.01555	II	0.905285	1	0.915405	1
+Colorectal_Cancer_CGCRC296	PGDX5886P_WGS.sorted_processed.bam	Colorectal_Cancer	0.04366	II	0.99781	1	0.99983	1
+Colorectal_Cancer_CGCRC299	PGDX5889P_WGS.sorted_processed.bam	Colorectal_Cancer	0.02539	I	0.98228	1	0.99659	1
+Colorectal_Cancer_CGCRC300	PGDX5890P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.04099	I	0.82761	1	0.7241949999999999	1
+Colorectal_Cancer_CGCRC301	PGDX5891P_WGS_processed_downsamp.bam	Colorectal_Cancer	0.0	I	0.544605	1	0.00534	0
+Colorectal_Cancer_CGCRC302	PGDX5892P_WGS.sorted_processed.bam	Colorectal_Cancer	0.0	II	0.96199	1	0.96042	1
+Colorectal_Cancer_CGCRC304	PGDX5894P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.07936	II	0.902115	1	0.98838	1
+Colorectal_Cancer_CGCRC305	PGDX5969P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.0	II	0.9138649999999999	1	0.35206499999999996	0
+Colorectal_Cancer_CGCRC306	PGDX5895P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.1489	II	0.99956	1	0.99998	1
+Colorectal_Cancer_CGCRC307	PGDX5899P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.0	II	0.97254	1	0.916825	1
+Colorectal_Cancer_CGCRC308	PGDX5900P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.0	III	0.919465	1	0.5583899999999999	1
+Colorectal_Cancer_CGCRC311	PGDX5903P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.0	I	0.44899	0	0.13972	0
+Colorectal_Cancer_CGCRC315	PGDX5963P_WGS_processed_downsamp.bam	Colorectal_Cancer	0.05614	III	0.512345	1	0.468075	0
+Colorectal_Cancer_CGCRC316	PGDX5964P_WGS_processed_downsamp.bam	Colorectal_Cancer	0.2535	III	0.9974799999999999	1	0.99637	1
+Colorectal_Cancer_CGCRC317	PGDX5965P_WGS_processed_downsamp.bam	Colorectal_Cancer	0.06524	III	0.99133	1	0.99996	1
+Colorectal_Cancer_CGCRC318	PGDX5966P_WGS_processed_downsamp.bam	Colorectal_Cancer	0.03061	I	0.46074	0	0.29881	0
+Colorectal_Cancer_CGCRC319	PGDX5967P_WGS.sorted_processed.bam	Colorectal_Cancer	0.02006	III	0.99996	1	1.0	1
+Colorectal_Cancer_CGCRC320	PGDX5968P_WGS_processed_downsamp.bam	Colorectal_Cancer	0.0	I	0.5829	1	0.42899	0
+Colorectal_Cancer_CGCRC321	PGDX6249P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.01713	I	0.9930000000000001	1	0.999925	1
+Colorectal_Cancer_CGCRC333	PGDX8820P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.4073	IV	1.0	1	1.0	1
+Colorectal_Cancer_CGCRC336	PGDX8823P_WGS.sorted_processed.bam	Colorectal_Cancer	0.4785	IV	1.0	1	1.0	1
+Colorectal_Cancer_CGCRC338	PGDX8825P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.1832	IV	0.99998	1	1.0	1
+Colorectal_Cancer_CGCRC341	PGDX8828P_WGS.sorted_processed.bam	Colorectal_Cancer	0.05058	IV	0.919975	1	0.940125	1
+Colorectal_Cancer_CGCRC342	PGDX8829P1_WGS.sorted_processed.bam	Colorectal_Cancer	0.4033	IV	1.0	1	1.0	1
+Duodenal_Cancer_CGPLPA113	PGDX17725P_WGS.sorted_processed.bam	Duodenal_Cancer	0.04583	I	0.997525	1	1.0	1
+Gastric_cancer_CGST102	PGDX15168P1_WGS.sorted_processed.bam	Gastric_cancer	0.01986	II	0.47599	0	0.29767	0
+Gastric_cancer_CGST11	PGDX10344P1_WGS.sorted_processed.bam	Gastric_cancer	0.03204	IV	0.58513	1	0.841375	1
+Gastric_cancer_CGST110	PGDX15146P1_WGS.sorted_processed.bam	Gastric_cancer	0.0	III	0.5206649999999999	1	0.694105	1
+Gastric_cancer_CGST114	PGDX15158P1_WGS.sorted_processed.bam	Gastric_cancer	0.02827	III	0.54099	1	0.208505	0
+Gastric_cancer_CGST13	PGDX10346P1_WGS.sorted_processed.bam	Gastric_cancer	0.0	II	0.97382	1	0.99973	1
+Gastric_cancer_CGST131	PGDX15160P1_WGS.sorted_processed.bam	Gastric_cancer	0.04945	III	0.9930749999999999	1	0.9557549999999999	1
+Gastric_cancer_CGST141	PGDX15162P1_WGS.sorted_processed.bam	Gastric_cancer	0.0	III	0.13375	0	0.014	0
+Gastric_cancer_CGST16	PGDX10349P1_WGS.sorted_processed.bam	Gastric_cancer	0.03607	III	0.99957	1	1.0	1
+Gastric_cancer_CGST18	PGDX10351P1_WGS.sorted_processed.bam	Gastric_cancer	0.05231	II	0.297455	0	0.10481499999999999	0
+Gastric_cancer_CGST21	PGDX13669P1_WGS.sorted_processed.bam	Gastric_cancer	0.03272	II	1.0	1	1.0	1
+Gastric_cancer_CGST26	PGDX13674P1_WGS.sorted_processed.bam	Gastric_cancer	0.0	IV	0.6979200000000001	1	0.17956	0
+Gastric_cancer_CGST28	PGDX13676P1_WGS.sorted_processed.bam	Gastric_cancer	0.03462	X	0.77745	1	0.98918	1
+Gastric_cancer_CGST30	PGDX13678P1_WGS.sorted_processed.bam	Gastric_cancer	0.03089	III	0.30742	0	0.16219	0
+Gastric_cancer_CGST32	PGDX13680P1_WGS.sorted_processed.bam	Gastric_cancer	0.05404	II	0.88729	1	0.79264	1
+Gastric_cancer_CGST33	PGDX13681P1_WGS.sorted_processed.bam	Gastric_cancer	0.03931	I	0.95414	1	0.9767	1
+Gastric_cancer_CGST38	PGDX13686P1_WGS.sorted_processed.bam	Gastric_cancer	0.06593	0	0.99337	1	0.90232	1
+Gastric_cancer_CGST39	PGDX13687P1_WGS.sorted_processed.bam	Gastric_cancer	0.0	IV	0.99775	1	0.99978	1
+Gastric_cancer_CGST41	PGDX13689P1_WGS.sorted_processed.bam	Gastric_cancer	0.0247	IV	0.93126	1	0.97043	1
+Gastric_cancer_CGST45	PGDX13762P1_WGS.sorted_processed.bam	Gastric_cancer	0.01418	II	0.9994	1	0.99961	1
+Gastric_cancer_CGST47	PGDX13764P1_WGS.sorted_processed.bam	Gastric_cancer	0.0	I	0.986355	1	0.997565	1
+Gastric_cancer_CGST48	PGDX13765P1_WGS.sorted_processed.bam	Gastric_cancer	0.03453	IV	0.99822	1	0.99687	1
+Gastric_cancer_CGST53	PGDX13770P1_WGS.sorted_processed.bam	Gastric_cancer	0.02957	0	1.0	1	1.0	1
+Gastric_cancer_CGST58	PGDX13775P1_WGS.sorted_processed.bam	Gastric_cancer	0.0	III	0.81078	1	0.62261	1
+Gastric_cancer_CGST67	PGDX13784P1_WGS.sorted_processed.bam	Gastric_cancer	0.02091	I	0.99516	1	0.99902	1
+Gastric_cancer_CGST77	PGDX14551P1_WGS.sorted_processed.bam	Gastric_cancer	0.01801	IV	1.0	1	1.0	1
+Gastric_cancer_CGST80	PGDX13787P1_WGS.sorted_processed.bam	Gastric_cancer	0.02077	III	0.96201	1	0.99772	1
+Gastric_cancer_CGST81	PGDX15164P1_WGS.sorted_processed.bam	Gastric_cancer	0.02891	I	0.11516	0	0.00765	0
+Healthy_CGPLH189	PGDX16568P_WGS.sorted_processed.bam	Healthy	0.02115		0.465485	0	0.183685	0
+Healthy_CGPLH190	PGDX16569P_WGS.sorted_processed.bam	Healthy	0.0		0.20355499999999999	0	0.135485	0
+Healthy_CGPLH192	PGDX16570P_WGS.sorted_processed.bam	Healthy	0.0		0.04239999999999999	0	0.018165	0
+Healthy_CGPLH193	PGDX16571P_WGS.sorted_processed.bam	Healthy	0.0		0.09437000000000001	0	0.208535	0
+Healthy_CGPLH194	PGDX16579P_WGS_X1.sorted_processed.bam	Healthy	0.04815		0.05632	0	0.00353	0
+Healthy_CGPLH196	PGDX16580P_WGS.sorted_processed.bam	Healthy	0.0		0.26802000000000004	0	0.056139999999999995	0
+Healthy_CGPLH197	PGDX16581P_WGS.sorted_processed.bam	Healthy	0.0		0.47352	0	0.299915	0
+Healthy_CGPLH198	PGDX16582P_WGS.sorted_processed.bam	Healthy	0.0		0.61188	1	0.09832	0
+Healthy_CGPLH199	PGDX16583P_WGS.sorted_processed.bam	Healthy	0.009058		0.70527	1	0.38079	0
+Healthy_CGPLH200	PGDX16584P_WGS.sorted_processed.bam	Healthy	0.0		0.15176	0	0.00579	0
+Healthy_CGPLH201	PGDX16585P_WGS.sorted_processed.bam	Healthy	0.0		0.41563	0	0.20898	0
+Healthy_CGPLH202	PGDX16586P_WGS.sorted_processed.bam	Healthy	0.0		0.015940000000000003	0	0.001755	0
+Healthy_CGPLH203	PGDX16587P_WGS.sorted_processed.bam	Healthy	0.0		0.44528	0	0.36589499999999997	0
+Healthy_CGPLH205	PGDX16588P_WGS.sorted_processed.bam	Healthy	0.01839		0.39447	0	0.91401	1
+Healthy_CGPLH208	PGDX16591P_WGS.sorted_processed.bam	Healthy	0.0		0.61544	1	0.265085	0
+Healthy_CGPLH209	PGDX16592P_WGS.sorted_processed.bam	Healthy	0.0		0.11868	0	0.32134	0
+Healthy_CGPLH210	PGDX16593P_WGS.sorted_processed.bam	Healthy	0.0206		0.12505	0	0.45887500000000003	0
+Healthy_CGPLH211	PGDX16594P_WGS.sorted_processed.bam	Healthy	0.0		0.07605	0	0.00108	0
+Healthy_CGPLH300	PGDX18249P_WGS.sorted_processed.bam	Healthy	0.0		0.13598	0	0.227875	0
+Healthy_CGPLH307	PGDX17964P_WGS.sorted_processed.bam	Healthy	0.0133		0.24172	0	0.29907	0
+Healthy_CGPLH308	PGDX17976P_WGS.sorted_processed.bam	Healthy	0.0		0.11716	0	0.01005	0
+Healthy_CGPLH309	PGDX17986P_WGS.sorted_processed.bam	Healthy	0.0		0.179	0	0.94206	1
+Healthy_CGPLH310	PGDX17963P_WGS.sorted_processed.bam	Healthy	0.0		0.7561450000000001	1	0.4696	0
+Healthy_CGPLH311	PGDX17990P_WGS.sorted_processed.bam	Healthy	0.0		0.40146	0	0.07188	0
+Healthy_CGPLH314	PGDX17970P_WGS.sorted_processed.bam	Healthy	0.02436		0.81398	1	0.63886	1
+Healthy_CGPLH315	PGDX18288P_WGS.sorted_processed.bam	Healthy	0.02336		0.160695	0	0.13471	0
+Healthy_CGPLH316	PGDX17972P_WGS.sorted_processed.bam	Healthy	0.0		0.98576	1	0.99971	1
+Healthy_CGPLH317	PGDX17983P_WGS.sorted_processed.bam	Healthy	0.0223		0.33868	0	0.45468	0
+Healthy_CGPLH319	PGDX17987P_WGS.sorted_processed.bam	Healthy	0.0		0.2671	0	0.87046	1
+Healthy_CGPLH320	PGDX17988P_WGS.sorted_processed.bam	Healthy	0.0		0.9394549999999999	1	0.992435	1
+Healthy_CGPLH322	PGDX17968P_WGS.sorted_processed.bam	Healthy	0.0		0.97139	1	0.99671	1
+Healthy_CGPLH324	PGDX18251P_WGS.sorted_processed.bam	Healthy	0.0		0.025825	0	0.0	0
+Healthy_CGPLH325	PGDX17974P_WGS.sorted_processed.bam	Healthy	0.0		0.26383500000000004	0	0.200085	0
+Healthy_CGPLH326	PGDX17958P_WGS.sorted_processed.bam	Healthy	0.0		0.37034	0	0.29668	0
+Healthy_CGPLH327	PGDX17962P_WGS.sorted_processed.bam	Healthy	0.0		0.329515	0	0.08834	0
+Healthy_CGPLH328	PGDX17971P_WGS.sorted_processed.bam	Healthy	0.06906		0.024925	0	0.0022500000000000003	0
+Healthy_CGPLH329	PGDX17984P_WGS.sorted_processed.bam	Healthy	0.0		0.08676	0	0.02404	0
+Healthy_CGPLH330	PGDX17942P_WGS.sorted_processed.bam	Healthy	0.01882		0.12811	0	0.037575	0
+Healthy_CGPLH331	PGDX17982P_WGS.sorted_processed.bam	Healthy	0.0		0.06367	0	0.19893	0
+Healthy_CGPLH333	PGDX17954P_WGS.sorted_processed.bam	Healthy	0.0		0.10253999999999999	0	0.5481849999999999	1
+Healthy_CGPLH335	PGDX17978P_WGS.sorted_processed.bam	Healthy	0.0		0.14347	0	0.08903	0
+Healthy_CGPLH336	PGDX18252P_WGS.sorted_processed.bam	Healthy	0.0		0.007980000000000001	0	0.000755	0
+Healthy_CGPLH337	PGDX18264P_WGS.sorted_processed.bam	Healthy	0.0		0.10209	0	0.2205	0
+Healthy_CGPLH338	PGDX18265P_WGS.sorted_processed.bam	Healthy	0.0		0.243035	0	0.070345	0
+Healthy_CGPLH339	PGDX18266P_WGS.sorted_processed.bam	Healthy	0.0		0.16533	0	0.01364	0
+Healthy_CGPLH340	PGDX18267P_WGS.sorted_processed.bam	Healthy	0.0		0.01761	0	0.00168	0
+Healthy_CGPLH341	PGDX18268P_WGS.sorted_processed.bam	Healthy	0.01368		0.44494999999999996	0	0.202905	0
+Healthy_CGPLH342	PGDX18269P_WGS.sorted_processed.bam	Healthy	0.0		0.14965499999999998	0	0.00516	0
+Healthy_CGPLH343	PGDX18270P_WGS.sorted_processed.bam	Healthy	0.0		0.02354	0	0.02223	0
+Healthy_CGPLH344	PGDX18271P_WGS.sorted_processed.bam	Healthy	0.0		0.05042	0	0.019095	0
+Healthy_CGPLH345	PGDX18272P_WGS.sorted_processed.bam	Healthy	0.0		0.00424	0	0.00991	0
+Healthy_CGPLH346	PGDX18273P_WGS.sorted_processed.bam	Healthy	0.0		0.00229	0	2e-05	0
+Healthy_CGPLH350	PGDX18275P_WGS.sorted_processed.bam	Healthy	0.02261		0.001705	0	0.000225	0
+Healthy_CGPLH351	PGDX18276P_WGS.sorted_processed.bam	Healthy	0.04861		0.01047	0	2.5e-05	0
+Healthy_CGPLH352	PGDX18279P_WGS.sorted_processed.bam	Healthy	0.0		0.00488	0	3e-05	0
+Healthy_CGPLH353	PGDX18280P_WGS.sorted_processed.bam	Healthy	0.0		0.10328999999999999	0	0.08468500000000001	0
+Healthy_CGPLH354	PGDX18281P_WGS.sorted_processed.bam	Healthy	0.0		0.00528	0	0.000105	0
+Healthy_CGPLH355	PGDX18282P_WGS.sorted_processed.bam	Healthy	0.02278		0.1538	0	0.208555	0
+Healthy_CGPLH356	PGDX18283P_WGS.sorted_processed.bam	Healthy	0.05418		0.05164	0	0.11867	0
+Healthy_CGPLH357	PGDX18284P_WGS.sorted_processed.bam	Healthy	0.04869		0.0184	0	0.01134	0
+Healthy_CGPLH358	PGDX18285P_WGS.sorted_processed.bam	Healthy	0.0		0.04925	0	0.04639	0
+Healthy_CGPLH360	PGDX18253P_WGS.sorted_processed.bam	Healthy	0.0		0.11467	0	0.00077	0
+Healthy_CGPLH361	PGDX17975P_WGS.sorted_processed.bam	Healthy	0.0		0.454785	0	0.00255	0
+Healthy_CGPLH362	PGDX17944P_WGS.sorted_processed.bam	Healthy	0.0		0.24058	0	0.02863	0
+Healthy_CGPLH363	PGDX17948P_WGS.sorted_processed.bam	Healthy	0.0		0.35358	0	0.905105	1
+Healthy_CGPLH364	PGDX17941P_WGS.sorted_processed.bam	Healthy	0.03645		0.80052	1	0.80975	1
+Healthy_CGPLH365	PGDX17980P_WGS.sorted_processed.bam	Healthy	0.02782		0.12701	0	0.01446	0
+Healthy_CGPLH366	PGDX17959P_WGS.sorted_processed.bam	Healthy	0.0		0.22037	0	0.204315	0
+Healthy_CGPLH367	PGDX17965P_WGS.sorted_processed.bam	Healthy	0.0		0.40681	0	0.19169	0
+Healthy_CGPLH368	PGDX17969P_WGS.sorted_processed.bam	Healthy	0.0		0.22429	0	0.64537	1
+Healthy_CGPLH369	PGDX17951P_WGS.sorted_processed.bam	Healthy	0.02424		0.271705	0	0.23028500000000002	0
+Healthy_CGPLH370	PGDX17946P_WGS.sorted_processed.bam	Healthy	0.0		0.33811	0	0.319	0
+Healthy_CGPLH371	PGDX17956P_WGS.sorted_processed.bam	Healthy	0.0		0.15265	0	0.80856	1
+Healthy_CGPLH380	PGDX18326P_WGS.sorted_processed.bam	Healthy	0.0		0.0030949999999999997	0	0.0005	0
+Healthy_CGPLH381	PGDX18327P_WGS.sorted_processed.bam	Healthy	0.0224		0.03842	0	0.00968	0
+Healthy_CGPLH382	PGDX18328P_WGS.sorted_processed.bam	Healthy	0.01598		0.131255	0	0.006149999999999999	0
+Healthy_CGPLH383	PGDX18329P_WGS.sorted_processed.bam	Healthy	0.01641		0.01219	0	0.03394	0
+Healthy_CGPLH384	PGDX18254P_WGS.sorted_processed.bam	Healthy	0.03019		0.08832999999999999	0	0.038474999999999995	0
+Healthy_CGPLH385	PGDX17953P_WGS.sorted_processed.bam	Healthy	0.02859		0.07981	0	0.01959	0
+Healthy_CGPLH386	PGDX17952P_WGS.sorted_processed.bam	Healthy	0.0		0.293375	0	0.124665	0
+Healthy_CGPLH387	PGDX17967P_WGS.sorted_processed.bam	Healthy	0.0		0.02575	0	0.11984	0
+Healthy_CGPLH388	PGDX17977P_WGS.sorted_processed.bam	Healthy	0.0		0.016795	0	0.006445	0
+Healthy_CGPLH389	PGDX17943P_WGS.sorted_processed.bam	Healthy	0.01621		0.092525	0	0.0030600000000000002	0
+Healthy_CGPLH390	PGDX17950P_WGS.sorted_processed.bam	Healthy	0.0216		0.07234	0	0.748235	1
+Healthy_CGPLH391	PGDX17961P_WGS.sorted_processed.bam	Healthy	0.03184		0.037779999999999994	0	0.0031	0
+Healthy_CGPLH392	PGDX17949P_WGS.sorted_processed.bam	Healthy	0.0		0.10992	0	0.15388	0
+Healthy_CGPLH393	PGDX17945P_WGS.sorted_processed.bam	Healthy	0.0		0.01901	0	0.02999	0
+Healthy_CGPLH394	PGDX17955P_WGS.sorted_processed.bam	Healthy	0.0		0.155525	0	0.12145500000000001	0
+Healthy_CGPLH395	PGDX17957P_WGS.sorted_processed.bam	Healthy	0.03361		0.048745	0	0.06831999999999999	0
+Healthy_CGPLH396	PGDX18255P_WGS.sorted_processed.bam	Healthy	0.0		0.27772	0	0.31344	0
+Healthy_CGPLH398	PGDX17940P_WGS.sorted_processed.bam	Healthy	0.0		0.26821	0	0.55807	1
+Healthy_CGPLH399	PGDX17989P_WGS.sorted_processed.bam	Healthy	0.0		0.0355	0	7e-05	0
+Healthy_CGPLH400	PGDX17991P_WGS.sorted_processed.bam	Healthy	0.0532		0.10500999999999999	0	0.023105	0
+Healthy_CGPLH401	PGDX17947P_WGS.sorted_processed.bam	Healthy	0.0		0.11155	0	0.049695	0
+Healthy_CGPLH402	PGDX18233P_WGS.sorted_processed.bam	Healthy	0.0		0.0011	0	1e-05	0
+Healthy_CGPLH403	PGDX18234P_WGS.sorted_processed.bam	Healthy	0.03121		0.00015	0	0.0	0
+Healthy_CGPLH404	PGDX18235P_WGS.sorted_processed.bam	Healthy	0.04931		0.00023500000000000002	0	0.0	0
+Healthy_CGPLH405	PGDX18236P_WGS.sorted_processed.bam	Healthy	0.0		0.0007	0	0.0	0
+Healthy_CGPLH406	PGDX18237P_WGS.sorted_processed.bam	Healthy	0.03773		0.0116	0	0.00852	0
+Healthy_CGPLH407	PGDX18238P_WGS.sorted_processed.bam	Healthy	0.0		0.001585	0	2e-05	0
+Healthy_CGPLH408	PGDX18256P_WGS.sorted_processed.bam	Healthy	0.02978		0.01666	0	0.0046	0
+Healthy_CGPLH409	PGDX18239P_WGS.sorted_processed.bam	Healthy	0.0		0.00449	0	0.00015	0
+Healthy_CGPLH410	PGDX18240P_WGS.sorted_processed.bam	Healthy	0.0		0.01296	0	0.0031	0
+Healthy_CGPLH411	PGDX18241P_WGS.sorted_processed.bam	Healthy	0.0		0.00961	0	0.00165	0
+Healthy_CGPLH412	PGDX18242P_WGS.sorted_processed.bam	Healthy	0.0354		0.03273	0	0.01685	0
+Healthy_CGPLH413	PGDX18243P_WGS.sorted_processed.bam	Healthy	0.0		0.047075000000000006	0	0.001235	0
+Healthy_CGPLH414	PGDX18244P_WGS.sorted_processed.bam	Healthy	0.0		0.0045	0	0.0004	0
+Healthy_CGPLH415	PGDX18245P_WGS.sorted_processed.bam	Healthy	0.0		0.00024	0	0.0	0
+Healthy_CGPLH416	PGDX18246P_WGS.sorted_processed.bam	Healthy	0.01748		0.0025	0	9e-05	0
+Healthy_CGPLH417	PGDX18247P_WGS.sorted_processed.bam	Healthy	0.03481		0.00166	0	0.0	0
+Healthy_CGPLH418	PGDX18248P_WGS.sorted_processed.bam	Healthy	0.0		0.00185	0	0.00017	0
+Healthy_CGPLH419	PGDX18257P_WGS.sorted_processed.bam	Healthy	0.0		0.08929000000000001	0	0.001185	0
+Healthy_CGPLH420	PGDX18258P_WGS.sorted_processed.bam	Healthy	0.0		0.0297	0	0.00157	0
+Healthy_CGPLH422	PGDX18330P_WGS.sorted_processed.bam	Healthy	0.02645		0.24989	0	0.05393	0
+Healthy_CGPLH423	PGDX18331P_WGS.sorted_processed.bam	Healthy	0.0		0.012369999999999999	0	0.00017500000000000003	0
+Healthy_CGPLH424	PGDX18332P_WGS.sorted_processed.bam	Healthy	0.03694		0.08847	0	0.312705	0
+Healthy_CGPLH425	PGDX18333P_WGS.sorted_processed.bam	Healthy	0.0		0.02378	0	0.02432	0
+Healthy_CGPLH426	PGDX18334P_WGS.sorted_processed.bam	Healthy	0.0		0.014	0	3e-05	0
+Healthy_CGPLH427	PGDX18335P_WGS.sorted_processed.bam	Healthy	0.02333		0.11912	0	0.01183	0
+Healthy_CGPLH428	PGDX18336P_WGS.sorted_processed.bam	Healthy	0.0		0.05993	0	0.20584	0
+Healthy_CGPLH429	PGDX18337P_WGS.sorted_processed.bam	Healthy	0.04974		0.062085	0	0.097945	0
+Healthy_CGPLH430	PGDX18338P_WGS.sorted_processed.bam	Healthy	0.0		0.02735	0	0.007885	0
+Healthy_CGPLH431	PGDX18339P_WGS.sorted_processed.bam	Healthy	0.0		0.028220000000000002	0	0.015305	0
+Healthy_CGPLH432	PGDX18340P_WGS.sorted_processed.bam	Healthy	0.0		0.059695	0	2.5e-05	0
+Healthy_CGPLH434	PGDX18341P_WGS.sorted_processed.bam	Healthy	0.0		0.030705000000000003	0	0.00336	0
+Healthy_CGPLH435	PGDX18342P_WGS.sorted_processed.bam	Healthy	0.02434		0.02623	0	0.0002	0
+Healthy_CGPLH436	PGDX18343P_WGS.sorted_processed.bam	Healthy	0.0		0.15309	0	0.19891	0
+Healthy_CGPLH437	PGDX18344P_WGS.sorted_processed.bam	Healthy	0.0		0.01142	0	2e-05	0
+Healthy_CGPLH438	PGDX18345P_WGS.sorted_processed.bam	Healthy	0.0		0.01857	0	0.000365	0
+Healthy_CGPLH439	PGDX18346P_WGS.sorted_processed.bam	Healthy	0.01747		0.01283	0	0.000295	0
+Healthy_CGPLH440	PGDX18347P_WGS.sorted_processed.bam	Healthy	0.0		0.00139	0	4e-05	0
+Healthy_CGPLH441	PGDX18348P_WGS.sorted_processed.bam	Healthy	0.0		0.05406	0	0.01665	0
+Healthy_CGPLH442	PGDX18349P_WGS.sorted_processed.bam	Healthy	0.0		0.012025000000000001	0	0.01444	0
+Healthy_CGPLH443	PGDX18417P_WGS.sorted_processed.bam	Healthy	0.04386		0.03755	0	0.28809	0
+Healthy_CGPLH444	PGDX18418P_WGS.sorted_processed.bam	Healthy	0.0		0.01577	0	0.01943	0
+Healthy_CGPLH445	PGDX18419P_WGS.sorted_processed.bam	Healthy	0.0		0.01762	0	0.00632	0
+Healthy_CGPLH446	PGDX18420P_WGS.sorted_processed.bam	Healthy	0.0		0.03885	0	0.00138	0
+Healthy_CGPLH447	PGDX18421P_WGS.sorted_processed.bam	Healthy	0.0		0.04933	0	0.06342	0
+Healthy_CGPLH448	PGDX18422P_WGS.sorted_processed.bam	Healthy	0.02083		0.06278500000000001	0	0.001215	0
+Healthy_CGPLH449	PGDX18423P_WGS.sorted_processed.bam	Healthy	0.0		0.022185	0	0.002595	0
+Healthy_CGPLH450	PGDX18424P_WGS.sorted_processed.bam	Healthy	0.02769		0.13795	0	0.00551	0
+Healthy_CGPLH451	PGDX18425P_WGS.sorted_processed.bam	Healthy	0.0		0.01462	0	0.00198	0
+Healthy_CGPLH452	PGDX18426P_WGS.sorted_processed.bam	Healthy	0.0		0.17365	0	0.20873999999999998	0
+Healthy_CGPLH453	PGDX17981P_WGS.sorted_processed.bam	Healthy	0.01872		0.44384999999999997	0	0.18815500000000002	0
+Healthy_CGPLH455	PGDX17985P_WGS.sorted_processed.bam	Healthy	0.0256		0.2462	0	0.62583	1
+Healthy_CGPLH456	PGDX18427P_WGS.sorted_processed.bam	Healthy	0.01819		0.02896	0	0.00186	0
+Healthy_CGPLH457	PGDX18428P_WGS.sorted_processed.bam	Healthy	0.01944		0.12653	0	0.01448	0
+Healthy_CGPLH458	PGDX18429P_WGS.sorted_processed.bam	Healthy	0.0		0.08438999999999999	0	0.046665	0
+Healthy_CGPLH459	PGDX18430P_WGS.sorted_processed.bam	Healthy	0.0		0.023715	0	0.001015	0
+Healthy_CGPLH460	PGDX18431P_WGS.sorted_processed.bam	Healthy	0.04289		0.01579	0	1e-05	0
+Healthy_CGPLH463	PGDX18432P_WGS.sorted_processed.bam	Healthy	0.0		0.038725	0	0.086015	0
+Healthy_CGPLH464	PGDX18433P_WGS.sorted_processed.bam	Healthy	0.0		0.10362	0	0.01728	0
+Healthy_CGPLH465	PGDX18434P_WGS.sorted_processed.bam	Healthy	0.0		0.138175	0	0.10124	0
+Healthy_CGPLH466	PGDX17979P_WGS.sorted_processed.bam	Healthy	0.02354		0.09912	0	0.02943	0
+Healthy_CGPLH467	PGDX18435P_WGS.sorted_processed.bam	Healthy	0.0		0.07517	0	0.09345	0
+Healthy_CGPLH468	PGDX18436P_WGS.sorted_processed.bam	Healthy	0.0		0.21715	0	0.13781	0
+Healthy_CGPLH469	PGDX18437P_WGS.sorted_processed.bam	Healthy	0.0		0.02799	0	0.09936	0
+Healthy_CGPLH470	PGDX18438P_WGS.sorted_processed.bam	Healthy	0.0		0.31966	0	0.46386	0
+Healthy_CGPLH471	PGDX18439P_WGS.sorted_processed.bam	Healthy	0.0		0.164825	0	0.11516499999999999	0
+Healthy_CGPLH472	PGDX18440P_WGS.sorted_processed.bam	Healthy	0.03263		0.712	1	0.4303	0
+Healthy_CGPLH473	PGDX18441P_WGS.sorted_processed.bam	Healthy	0.01737		0.132305	0	0.07686499999999999	0
+Healthy_CGPLH474	PGDX18442P_WGS.sorted_processed.bam	Healthy	0.0		0.36006499999999997	0	0.434395	0
+Healthy_CGPLH475	PGDX18443P_WGS.sorted_processed.bam	Healthy	0.01994		0.08603	0	0.14673	0
+Healthy_CGPLH476	PGDX18444P_WGS.sorted_processed.bam	Healthy	0.0		0.04051	0	0.00011	0
+Healthy_CGPLH477	PGDX18445P_WGS.sorted_processed.bam	Healthy	0.0251		0.09123	0	0.03103	0
+Healthy_CGPLH478	PGDX18446P_WGS.sorted_processed.bam	Healthy	0.0		0.06949	0	0.03903	0
+Healthy_CGPLH479	PGDX18447P_WGS.sorted_processed.bam	Healthy	0.03516		0.07522	0	0.02644	0
+Healthy_CGPLH480	PGDX18448P_WGS.sorted_processed.bam	Healthy	0.0		0.08953	0	0.41945	0
+Healthy_CGPLH481	PGDX18449P_WGS.sorted_processed.bam	Healthy	0.0		0.06984	0	0.08411	0
+Healthy_CGPLH482	PGDX18450P_WGS.sorted_processed.bam	Healthy	0.0		0.05577	0	0.01257	0
+Healthy_CGPLH483	PGDX18451P_WGS.sorted_processed.bam	Healthy	0.03144		0.18604	0	0.14503	0
+Healthy_CGPLH484	PGDX18452P_WGS.sorted_processed.bam	Healthy	0.0		0.23311	0	0.44734	0
+Healthy_CGPLH485	PGDX18453P_WGS.sorted_processed.bam	Healthy	0.0		0.01518	0	0.00032	0
+Healthy_CGPLH486	PGDX18454P_WGS.sorted_processed.bam	Healthy	0.02025		0.027505	0	0.003235	0
+Healthy_CGPLH487	PGDX18455P_WGS.sorted_processed.bam	Healthy	0.03697		0.02852	0	0.03999	0
+Healthy_CGPLH488	PGDX18456P_WGS.sorted_processed.bam	Healthy	0.0398		0.07914	0	0.03079	0
+Healthy_CGPLH490	PGDX18457P_WGS.sorted_processed.bam	Healthy	0.04021		0.3766	0	0.337855	0
+Healthy_CGPLH491	PGDX18458P_WGS.sorted_processed.bam	Healthy	0.0		0.05126	0	0.01168	0
+Healthy_CGPLH492	PGDX18459P_WGS.sorted_processed.bam	Healthy	0.0		0.01305	0	0.00466	0
+Healthy_CGPLH493	PGDX18460P_WGS.sorted_processed.bam	Healthy	0.0		0.07552	0	0.17145	0
+Healthy_CGPLH494	PGDX18461P_WGS.sorted_processed.bam	Healthy	0.0		0.41344000000000003	0	0.2032	0
+Healthy_CGPLH495	PGDX18688P_WGS.sorted_processed.bam	Healthy	0.01644		0.72486	1	0.71129	1
+Healthy_CGPLH496	PGDX18689P_WGS.sorted_processed.bam	Healthy	0.0		0.13873	0	0.19694	0
+Healthy_CGPLH497	PGDX18690P_WGS.sorted_processed.bam	Healthy	0.0		0.79566	1	0.33951	0
+Healthy_CGPLH498	PGDX18691P_WGS.sorted_processed.bam	Healthy	0.0		0.17701	0	0.00141	0
+Healthy_CGPLH499	PGDX18692P_WGS.sorted_processed.bam	Healthy	0.0		0.19447	0	0.31487	0
+Healthy_CGPLH500	PGDX18693P_WGS.sorted_processed.bam	Healthy	0.0		0.127915	0	0.010205	0
+Healthy_CGPLH501	PGDX18694P_WGS.sorted_processed.bam	Healthy	0.04969		0.263605	0	0.624745	1
+Healthy_CGPLH502	PGDX18695P_WGS.sorted_processed.bam	Healthy	0.03137		0.06056	0	0.01898	0
+Healthy_CGPLH503	PGDX18696P_WGS.sorted_processed.bam	Healthy	0.0		0.15285	0	0.10736	0
+Healthy_CGPLH504	PGDX18697P_WGS.sorted_processed.bam	Healthy	0.0		0.29499	0	0.06433	0
+Healthy_CGPLH505	PGDX18698P_WGS.sorted_processed.bam	Healthy	0.0		0.27402499999999996	0	0.296395	0
+Healthy_CGPLH506	PGDX18699P_WGS.sorted_processed.bam	Healthy	0.0		0.31103	0	0.15867	0
+Healthy_CGPLH507	PGDX18700P_WGS.sorted_processed.bam	Healthy	0.02767		0.28643	0	0.02916	0
+Healthy_CGPLH508	PGDX18701P_WGS.sorted_processed.bam	Healthy	0.03406		0.35409	0	0.128465	0
+Healthy_CGPLH509	PGDX18702P_WGS.sorted_processed.bam	Healthy	0.0		0.17125	0	0.41101	0
+Healthy_CGPLH510	PGDX18703P_WGS.sorted_processed.bam	Healthy	0.0		0.25436	0	0.01081	0
+Healthy_CGPLH511	PGDX18704P_WGS.sorted_processed.bam	Healthy	0.04936		0.08175	0	0.01961	0
+Healthy_CGPLH512	PGDX18705P_WGS.sorted_processed.bam	Healthy	0.0		0.08148	0	0.18483	0
+Healthy_CGPLH513	PGDX18706P_WGS.sorted_processed.bam	Healthy	0.0		0.82729	1	0.55898	1
+Healthy_CGPLH514	PGDX18707P_WGS.sorted_processed.bam	Healthy	0.0		0.12321	0	0.03232	0
+Healthy_CGPLH515	PGDX18708P_WGS.sorted_processed.bam	Healthy	0.02692		0.7682	1	0.555865	1
+Healthy_CGPLH516	PGDX18709P_WGS.sorted_processed.bam	Healthy	0.0		0.28776999999999997	0	0.08156	0
+Healthy_CGPLH517	PGDX18710P_WGS.sorted_processed.bam	Healthy	0.0		0.185455	0	0.27697499999999997	0
+Healthy_CGPLH518	PGDX18711P_WGS.sorted_processed.bam	Healthy	0.0		0.30609	0	0.133095	0
+Healthy_CGPLH519	PGDX18712P_WGS.sorted_processed.bam	Healthy	0.0		0.47407	0	0.23814	0
+Healthy_CGPLH520	PGDX18713P_WGS.sorted_processed.bam	Healthy	0.0		0.727095	1	0.8646	1
+Healthy_CGPLH625	PGDX17973P_WGS.sorted_processed.bam	Healthy	0.0		0.11825	0	0.05681	0
+Healthy_CGPLH626	PGDX17960P_WGS.sorted_processed.bam	Healthy	0.0		0.22174	0	0.05853	0
+Healthy_CGPLH639	PGDX17966P_WGS.sorted_processed.bam	Healthy	0.0		0.31907	0	0.21533	0
+Healthy_CGPLH640	PGDX18259P_WGS.sorted_processed.bam	Healthy	0.0		0.19206	0	0.03167	0
+Healthy_CGPLH642	PGDX18260P_WGS.sorted_processed.bam	Healthy	0.0		0.05207	0	0.032455	0
+Healthy_CGPLH643	PGDX18261P_WGS.sorted_processed.bam	Healthy	0.0		0.026435	0	0.001215	0
+Healthy_CGPLH644	PGDX18262P_WGS.sorted_processed.bam	Healthy	0.01913		0.09608	0	0.40857	0
+Healthy_CGPLH646	PGDX18263P_WGS.sorted_processed.bam	Healthy	0.009973		0.039779999999999996	0	0.00677	0
+Lung_Cancer_CGPLLU144	PGDX6954P_WGS.sorted_processed_downsamp.bam	Lung_Cancer	0.07239	II	0.999635	1	0.99999	1
+Lung_Cancer_CGPLLU161	PGDX6871P_WGS.sorted_processed.bam	Lung_Cancer	0.02263	II	0.99984	1	1.0	1
+Lung_Cancer_CGPLLU162	PGDX6834P_WGS.sorted_processed.bam	Lung_Cancer	0.008255	II	0.99996	1	1.0	1
+Lung_Cancer_CGPLLU163	PGDX6835P_WGS.sorted_processed.bam	Lung_Cancer	0.118	II	1.0	1	1.0	1
+Lung_Cancer_CGPLLU168	PGDX6873P_WGS.sorted_processed_downsamp.bam	Lung_Cancer	0.0346	I	0.99985	1	0.99966	1
+Lung_Cancer_CGPLLU169	PGDX6838P1_WGS.sorted_processed.bam	Lung_Cancer	0.02762	I	0.98967	1	0.999385	1
+Lung_Cancer_CGPLLU176	PGDX6962P1_WGS.sorted_processed.bam	Lung_Cancer	0.01607	I	0.659875	1	0.214825	0
+Lung_Cancer_CGPLLU177	PGDX6963P_WGS.sorted_processed_downsamp.bam	Lung_Cancer	0.03223	II	0.93007	1	0.9502	1
+Lung_Cancer_CGPLLU203	PGDX7100P_WGS.sorted_processed_downsamp.bam	Lung_Cancer	0.02586	II	0.99909	1	0.99697	1
+Lung_Cancer_CGPLLU205	PGDX7102P_WGS.sorted_processed.bam	Lung_Cancer	0.01864	II	0.9929	1	0.997955	1
+Lung_Cancer_CGPLLU207	PGDX7584P_WGS.sorted_processed.bam	Lung_Cancer	0.01147	II	0.95337	1	0.97376	1
+Lung_Cancer_CGPLLU208	PGDX7585P1_WGS.sorted_processed.bam	Lung_Cancer	0.02423	II	0.999565	1	0.99998	1
+Ovarian_Cancer_CGPLOV11	PGDX6861P_WGS.sorted_processed.bam	Ovarian_Cancer	0.03682	IV	0.98083	1	0.9941450000000001	1
+Ovarian_Cancer_CGPLOV12	PGDX6862P_WGS.sorted_processed.bam	Ovarian_Cancer	0.02024	I	0.99571	1	0.99975	1
+Ovarian_Cancer_CGPLOV13	PGDX6863P_WGS.sorted_processed.bam	Ovarian_Cancer	0.0	IV	0.989295	1	0.99995	1
+Ovarian_Cancer_CGPLOV15	PGDX6865P1_WGS.sorted_processed.bam	Ovarian_Cancer	0.05217	III	0.9958549999999999	1	0.999405	1
+Ovarian_Cancer_CGPLOV16	PGDX6866P_WGS.sorted_processed.bam	Ovarian_Cancer	0.03083	III	0.9977	1	0.99998	1
+Ovarian_Cancer_CGPLOV19	PGDX6869P1_WGS.sorted_processed.bam	Ovarian_Cancer	0.3345	II	1.0	1	1.0	1
+Ovarian_Cancer_CGPLOV20	PGDX6870P1_WGS.sorted_processed.bam	Ovarian_Cancer	0.02426	II	0.9870650000000001	1	0.996665	1
+Ovarian_Cancer_CGPLOV21	PGDX6952P_WGS.sorted_processed.bam	Ovarian_Cancer	0.09648	IV	0.99589	1	0.99744	1
+Ovarian_Cancer_CGPLOV22	PGDX6953P_WGS.sorted_processed.bam	Ovarian_Cancer	0.0	III	0.9881	1	0.98225	1
+Ovarian_Cancer_CGPLOV23	PGDX7578P_WGS.sorted_processed.bam	Ovarian_Cancer	0.0235	I	0.865935	1	0.730745	1
+Ovarian_Cancer_CGPLOV24	PGDX7579P1_WGS.sorted_processed.bam	Ovarian_Cancer	0.01032	I	0.880555	1	0.9583200000000001	1
+Ovarian_Cancer_CGPLOV25	PGDX7580P1_WGS.sorted_processed.bam	Ovarian_Cancer	0.009457	I	0.61556	1	0.90454	1
+Ovarian_Cancer_CGPLOV26	PGDX7581P_WGS.sorted_processed.bam	Ovarian_Cancer	0.01727	I	0.99882	1	0.99884	1
+Ovarian_Cancer_CGPLOV28	PGDX10566P_WGS.sorted_processed.bam	Ovarian_Cancer	0.0	I	0.84778	1	0.993	1
+Ovarian_Cancer_CGPLOV31	PGDX10567P_WGS.sorted_processed.bam	Ovarian_Cancer	0.0	III	0.8538300000000001	1	0.744585	1
+Ovarian_Cancer_CGPLOV32	PGDX10568P_WGS.sorted_processed.bam	Ovarian_Cancer	0.0	I	0.989475	1	0.9983150000000001	1
+Ovarian_Cancer_CGPLOV37	PGDX10569P_WGS.sorted_processed.bam	Ovarian_Cancer	0.03014	I	0.83746	1	0.65717	1
+Ovarian_Cancer_CGPLOV38	PGDX10570P_WGS.sorted_processed.bam	Ovarian_Cancer	0.1315	I	0.99932	1	0.999965	1
+Ovarian_Cancer_CGPLOV40	PGDX10571P_WGS.sorted_processed.bam	Ovarian_Cancer	0.05903	IV	0.999125	1	0.999905	1
+Ovarian_Cancer_CGPLOV41	PGDX10572P_WGS.sorted_processed.bam	Ovarian_Cancer	0.0	IV	0.807335	1	0.219255	0
+Ovarian_Cancer_CGPLOV42	PGDX10573P_WGS.sorted_processed.bam	Ovarian_Cancer	0.02507	I	0.97599	1	0.9914	1
+Ovarian_Cancer_CGPLOV43	PGDX10574P1_WGS.sorted_processed.bam	Ovarian_Cancer	0.0	I	0.69822	1	0.73588	1
+Ovarian_Cancer_CGPLOV44	PGDX10575P_WGS.sorted_processed.bam	Ovarian_Cancer	0.03122	I	0.99569	1	0.99526	1
+Ovarian_Cancer_CGPLOV46	PGDX10576P_WGS.sorted_processed.bam	Ovarian_Cancer	0.01617	I	0.93761	1	0.8229949999999999	1
+Ovarian_Cancer_CGPLOV47	PGDX10577P_WGS.sorted_processed.bam	Ovarian_Cancer	0.0	I	0.917145	1	0.99659	1
+Ovarian_Cancer_CGPLOV48	PGDX10578P_WGS.sorted_processed.bam	Ovarian_Cancer	0.04416	I	0.6008249999999999	1	0.62557	1
+Ovarian_Cancer_CGPLOV49	PGDX10579P_WGS.sorted_processed.bam	Ovarian_Cancer	0.03777	III	0.98759	1	0.99422	1
+Ovarian_Cancer_CGPLOV50	PGDX10580P_WGS.sorted_processed.bam	Ovarian_Cancer	0.0	III	0.93782	1	0.941015	1
+Pancreatic_Cancer_CGPLPA112	PGDX17724P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	II	0.49343	0	0.911	1
+Pancreatic_Cancer_CGPLPA14	PGDX17727P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.01642	II	0.99817	1	0.9916149999999999	1
+Pancreatic_Cancer_CGPLPA15	PGDX17729P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.007109	II	0.53423	1	0.180345	0
+Pancreatic_Cancer_CGPLPA156	PGDX17728P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	II	0.15574500000000002	0	0.030545	0
+Pancreatic_Cancer_CGPLPA17	PGDX17730P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.05997	II	0.99999	1	1.0	1
+Pancreatic_Cancer_CGPLPA23	PGDX17760P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0923	II	1.0	1	1.0	1
+Pancreatic_Cancer_CGPLPA25	PGDX17732P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.02196	II	0.27286	0	0.06539	0
+Pancreatic_Cancer_CGPLPA26	PGDX17733P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	II	0.63252	1	0.27264	0
+Pancreatic_Cancer_CGPLPA28	PGDX17762P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0293	II	0.9271400000000001	1	0.998205	1
+Pancreatic_Cancer_CGPLPA33	PGDX17734P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.03345	II	0.9999	1	1.0	1
+Pancreatic_Cancer_CGPLPA34	PGDX17735P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.01881	II	0.730585	1	0.7732049999999999	1
+Pancreatic_Cancer_CGPLPA37	PGDX17763P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.02375	II	0.99981	1	0.999825	1
+Pancreatic_Cancer_CGPLPA38	PGDX17736P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.02967	II	0.97908	1	0.9888	1
+Pancreatic_Cancer_CGPLPA39	PGDX17737P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.06207	II	0.99485	1	0.999545	1
+Pancreatic_Cancer_CGPLPA40	PGDX17747P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.03279	II	0.99935	1	0.99999	1
+Pancreatic_Cancer_CGPLPA42	PGDX17748P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	II	0.076235	0	0.04443	0
+Pancreatic_Cancer_CGPLPA46	PGDX17749P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.04479	II	1.0	1	1.0	1
+Pancreatic_Cancer_CGPLPA47	PGDX17750P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.04837	II	1.0	1	1.0	1
+Pancreatic_Cancer_CGPLPA48	PGDX17751P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	I	0.27948	0	0.04285	0
+Pancreatic_Cancer_CGPLPA52	PGDX17742P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.01505	II	0.28183	0	0.20028	0
+Pancreatic_Cancer_CGPLPA53	PGDX17743P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	I	0.93862	1	0.99912	1
+Pancreatic_Cancer_CGPLPA58	PGDX17744P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	II	0.63437	1	0.090285	0
+Pancreatic_Cancer_CGPLPA59	PGDX17738P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.02861	II	0.98357	1	0.99949	1
+Pancreatic_Cancer_CGPLPA67	PGDX17731P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	III	0.66005	1	0.88962	1
+Pancreatic_Cancer_CGPLPA69	PGDX17739P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.02257	I	0.01319	0	0.00158	0
+Pancreatic_Cancer_CGPLPA71	PGDX17752P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.008579	II	0.06081	0	0.00139	0
+Pancreatic_Cancer_CGPLPA74	PGDX17753P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	II	0.14414	0	0.44139	0
+Pancreatic_Cancer_CGPLPA76	PGDX17745P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.01129	II	0.32262	0	0.47668	0
+Pancreatic_Cancer_CGPLPA85	PGDX17761P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	II	0.06074	0	0.010995	0
+Pancreatic_Cancer_CGPLPA86	PGDX17746P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0298	II	0.99844	1	0.99901	1
+Pancreatic_Cancer_CGPLPA92	PGDX17754P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.02493	II	0.201515	0	0.006625000000000001	0
+Pancreatic_Cancer_CGPLPA93	PGDX17756P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.05063	II	0.978855	1	0.999865	1
+Pancreatic_Cancer_CGPLPA94	PGDX17755P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.0	II	0.6543	1	0.99783	1
+Pancreatic_Cancer_CGPLPA95	PGDX17740P_WGS.sorted_processed.bam	Pancreatic_Cancer	0.04484	II	0.99875	1	0.99855	1

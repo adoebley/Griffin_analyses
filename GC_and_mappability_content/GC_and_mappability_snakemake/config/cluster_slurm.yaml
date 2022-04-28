@@ -1,0 +1,15 @@
+#griffin_nucleosome_profiling.snakefile
+#Anna-Lisa Doebley
+#Template made 2021-12-12
+#Ha Lab
+#Fred Hutchinson Cancer Research Center
+
+__default__:
+    partition: campus-new
+    time: "24:0:0"
+    mem: 4G
+    ncpus: 1
+    ntasks: 1
+    output: logs/cluster/{rule}.{wildcards.site_lists}.%A.out
+    JobName: "{rule}.{wildcards.site_lists}"
+

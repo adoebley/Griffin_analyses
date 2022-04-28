@@ -1,0 +1,105 @@
+data_type	patient_id	sample	days_from_primary	days_from_met	months_from_met	tumor_fraction	patient_ER_status_label	median_probability_ER+	biopsy_type	location	ER_status_biopsy	last_before_cfDNA	ER_status_notes	DeathCensor
+biopsy	MBC_1099		0	-2703.0	-90.1				primary	LEFT BREAST CORE NEEDLE BIOPSY FOR A MASS 	+	0.0	POSITIVE (80%, strong)	
+biopsy	MBC_1099		18	-2685.0	-89.5				primary	RIGHT BREAST, SKIN SPARING SIMPLE MASTECTOMY 	+	0.0	POSITIVE (80%, strong)	
+biopsy	MBC_1099		2703	0.0	0.0				metastasis	T9 VERTEBRAL BODY, CORE NEEDLE BIOPSY 	-	0.0	NEGATIVE (<1%, weak)(see note) 	
+biopsy	MBC_1099		2913	210.0	7.0				metastasis	LIVER CORE NEEDLE BIOPSY FOR A MASS 	-	1.0	NEGATIVE (0%) 	
+cfDNA_sample	MBC_1099	MBC_1099_4_ULP		424.0	14.1	0.1669	0.0	0.67599						
+biopsy	MBC_1099		3378	675.0	22.5				metastasis	LIVER, CORE NEEDLE BIOPSY FOR A MASS	low	0.0	POSITIVE-LOW (5%, moderate) 	
+cfDNA_sample	MBC_1099	MBC_1099_5_ULP		727.0	24.2	0.2301	0.0	0.78096						
+death_or_last_follow_up	MBC_1099			901.0	30.0									1.0
+biopsy	MBC_1158		-1121	-2832.0	-94.4				primary	Breast core needle biopsy	low	0.0	POSITIVE - LOW 	
+biopsy	MBC_1158		-1114	-2825.0	-94.2				primary	Breast core needle biopsy 	low	0.0	RARE CELLS WEAKLY POSITIVE	
+biopsy	MBC_1158		-1037	-2748.0	-91.6				primary	RIGHT BREAST, MASTECTOMY, AND SENTINEL LYMPH NODE BIOPSY	+	0.0	POSITIVE (heterogeneous)	
+biopsy	MBC_1158		0	-1711.0	-57.0				primary	LEFT BREAST, LOWER OUTER, 9G CORE NEEDLE BIOPSIES	+	0.0	POSITIVE (80%, MODERATE TO STRONG) 	
+biopsy	MBC_1158		1711	0.0	0.0				metastasis	LIVER, CORE NEEDLE BIOPSY FOR A MASS	-	1.0	Negative (0%)	
+cfDNA_sample	MBC_1158	MBC_1158_ULP		7.0	0.2	0.5622	0.0	0.750875						
+death_or_last_follow_up	MBC_1158			340.0	11.3									1.0
+biopsy	MBC_1306		0	-735.0	-24.5				primary	Breast core biopsy, left, ultrasound guided 	-	0.0	Negative - 0%	
+biopsy	MBC_1306		167	-568.0	-18.9				primary	Breast, left, partial mastectomy 	-	0.0	Negative - 0%	
+biopsy	MBC_1306		735	0.0	0.0				metastasis	Parasternal mass, CT guided core biopsy, left	-	1.0	Negative - 0%	
+cfDNA_sample	MBC_1306	MBC_1306_6_ULP		544.0	18.1	0.306	0.0	0.113815						
+cfDNA_sample	MBC_1306	MBC_1306_3_ULP		588.0	19.6	0.2397	0.0	0.224245						
+cfDNA_sample	MBC_1306	MBC_1306_4_ULP		609.0	20.3	0.1217	0.0	0.19624999999999998						
+cfDNA_sample	MBC_1306	MBC_1306_2_ULP		651.0	21.7	0.1369	0.0	0.421555						
+cfDNA_sample	MBC_1306	MBC_1306_7_ULP		700.0	23.3	0.313	0.0	0.15748499999999999						
+death_or_last_follow_up	MBC_1306			827.0	27.6									1.0
+biopsy	MBC_1308		1	-696.0	-23.2				primary	RIGHT BREAST CORE NEEDLE BIOPSIES FOR A MASS	-	0.0	NEGATIVE (0%)	
+biopsy	MBC_1308		233	-464.0	-15.5				primary	RIGHT BREAST SIMPLE MASTECTOMY 	-	0.0	NEGATIVE  (<1% weak)	
+biopsy	MBC_1308		729	32.0	1.1				metastasis	Cell block, pleural fluid, right	-	1.0	Negative - 0	
+cfDNA_sample	MBC_1308	MBC_1308_5_ULP		41.0	1.4	0.3213	0.0	0.01869						
+cfDNA_sample	MBC_1308	MBC_1308_3_ULP		49.0	1.6	0.1773	0.0	0.31764499999999996						
+cfDNA_sample	MBC_1308	MBC_1308_1_ULP		81.0	2.7	0.2956	0.0	0.06204						
+cfDNA_sample	MBC_1308	MBC_1308_4_ULP		105.0	3.5	0.3323	0.0	0.06451000000000001						
+death_or_last_follow_up	MBC_1308			138.0	4.6									1.0
+biopsy	MBC_1312		291	0.0	0.0				metastasis	Breast core needle biopsy	-	0.0	ER negative (0%)	
+biopsy	MBC_1312		372	81.0	2.7				metastasis	Breast, left, total mastectomy	-	0.0	ER negative	
+cfDNA_sample	MBC_1312	MBC_1312_2_ULP		256.0	8.5	0.09776	0.0	0.32562						
+death_or_last_follow_up	MBC_1312			411.0	13.7									1.0
+biopsy	MBC_1322		0	-2626.0	-87.5				primary	Breast core needle biopsy 	-	0.0	Negative	
+biopsy	MBC_1322		2626	0.0	0.0				metastasis	Lymph node biopsy 	-	1.0	NEGATIVE (0%) 	
+cfDNA_sample	MBC_1322	MBC_1322_3_ULP		211.0	7.0	0.3791	0.0	0.00978						
+cfDNA_sample	MBC_1322	MBC_1322_4_ULP		232.0	7.7	0.2437	0.0	0.04401						
+cfDNA_sample	MBC_1322	MBC_1322_1_ULP		253.0	8.4	0.139	0.0	0.46023						
+cfDNA_sample	MBC_1322	MBC_1322_5_ULP		274.0	9.1	0.06458	0.0	0.49961						
+death_or_last_follow_up	MBC_1322			310.0	10.3									1.0
+biopsy	MBC_1377		0	-1361.0	-45.4				primary	CORE NEEDLE BIOPSIES FOR A MASS	+	0.0	POSITIVE	
+biopsy	MBC_1377		1361	0.0	0.0				metastasis	FINE NEEDLE ASPIRATION, RIGHT ILIAC BONE 	-	1.0	Negative	
+cfDNA_sample	MBC_1377	MBC_1377_1_ULP		801.0	26.7	0.1504	0.0	0.484775						
+cfDNA_sample	MBC_1377	MBC_1377_3_ULP		941.0	31.4	0.2613	0.0	0.545665						
+death_or_last_follow_up	MBC_1377			1193.0	39.8									1.0
+biopsy	MBC_1399		0	-665.0	-22.2				primary	RIGHT BREAST EXCISION AND SENTINEL NODE BIOPSIES	+	0.0	ER+ (see notes)	
+biopsy	MBC_1399		665	0.0	0.0				metastasis	Right supraclavicular lymph node	-	0.0	NEGATIVE 	
+biopsy	MBC_1399		2303	1638.0	54.6				metastasis	BONE, PROXIMAL RIGHT FEMUR, CORE BIOPSY	+	0.0	POSITIVE (70%, moderate to strong)	
+biopsy	MBC_1399		2365	1700.0	56.7				metastasis	RIGHT SUBPECTORAL MASS, BIOPSY	low	1.0	POSITIVE-LOW (<10%, weak to moderate)	
+cfDNA_sample	MBC_1399	MBC_1399_3_ULP		1805.0	60.2	0.1308	1.0	0.11206						
+biopsy	MBC_1399		2934	2269.0	75.6				metastasis	LEFT AXILLA, ULTRASOUND-GUIDED CORE NEEDLE BIOPSY	+	0.0	POSITIVE (60%, moderate to strong)	
+biopsy	MBC_1399		3396	2731.0	91.0				metastasis	RIGHT BACK EXCISION	+	0.0	Positive (50-90%, faint to moderate staining)	
+death_or_last_follow_up	MBC_1399			2917.0	97.2									1.0
+biopsy	MBC_1404		0	-3947.0	-131.6				primary	RIGHT BREAST, UPPER CENTRAL, EXCISION FOR A MASS AND SENTINEL LYMPH NODES	+	0.0	ER positive (80%, moderate to strong)	
+biopsy	MBC_1404		3879	-68.0	-2.3				primary	RIGHT BREAST, LATERAL ASPECT, CORE NEEDLE BIOPSIES	-	0.0	ER negative (0%) 	
+biopsy	MBC_1404		3947	0.0	0.0				metastasis	RIGHT PLEURAL BIOPSY 	-	1.0	ER negative	
+cfDNA_sample	MBC_1404	MBC_1404_1_ULP		336.0	11.2	0.2463	0.0	0.90243						
+biopsy	MBC_1404		4403	456.0	15.2				metastasis	RIGHT TUBE AND OVARY	-	0.0	ER negative (0%) 	
+biopsy	MBC_1404		4909	962.0	32.1				metastasis	CELL BLOCK, RIGHT	-	0.0	ER negative	
+death_or_last_follow_up	MBC_1404			999.0	33.3									1.0
+biopsy	MBC_1405		0	-1844.0	-61.5				primary	BREAST FINE NEEDLE ASPIRATION 	+	0.0	Positive (>10% of nuclei staining)	
+biopsy	MBC_1405		1844	0.0	0.0				metastasis	RIGHT CHEST WALL MASS	-	0.0	Negative	
+biopsy	MBC_1405		1870	26.0	0.9				metastasis	LEFT ILIAC BONE BIOPSY FOR A LYTIC LESION	+	0.0	Positive (25%, MODERATE)	
+biopsy	MBC_1405		2233	389.0	13.0				metastasis	Cell block, fine needle aspiration, presternal cystic lesion 	-	1.0	Negative	
+cfDNA_sample	MBC_1405	MBC_1405_4_ULP		454.0	15.1	0.2956	0.0	0.66077						
+cfDNA_sample	MBC_1405	MBC_1405_1_ULP		461.0	15.4	0.324	0.0	0.09754						
+cfDNA_sample	MBC_1405	MBC_1405_3_ULP		475.0	15.8	0.06179	0.0	0.69774						
+cfDNA_sample	MBC_1405	MBC_1405_5_ULP		538.0	17.9	0.1409	0.0	0.37581						
+cfDNA_sample	MBC_1405	MBC_1405_6_ULP		559.0	18.6	0.1664	0.0	0.32657						
+biopsy	MBC_1405		2419	575.0	19.2				metastasis	Pleural fluid, right 	-	0.0	Negative - 0%	
+death_or_last_follow_up	MBC_1405			643.0	21.4									1.0
+biopsy	MBC_1406		0	0.0	0.0				primary	RIGHT BREAST CORE NEEDLE BIOPSIES 	low	0.0	Borderline Positive (10%, weak)	
+biopsy	MBC_1406		146	146.0	4.9				primary	RIGHT MASTECTOMY AXILLARY LYMPH NODE DISSECTION 	low	0.0	Weak Positive	
+biopsy	MBC_1406		356	356.0	11.9				metastasis	LEFT NECK, LYMPH NODE, CORE NEEDLE BIOPSY	-	1.0	Negative	
+cfDNA_sample	MBC_1406	MBC_1406_3_ULP		533.0	17.8	0.362	0.0	0.02817						
+cfDNA_sample	MBC_1406	MBC_1406_7_ULP		544.0	18.1	0.4244	0.0	0.00911						
+cfDNA_sample	MBC_1406	MBC_1406_1_ULP		580.0	19.3	0.3239	0.0	0.03291						
+cfDNA_sample	MBC_1406	MBC_1406_6_ULP		600.0	20.0	0.3462	0.0	0.04448						
+cfDNA_sample	MBC_1406	MBC_1406_5_ULP		618.0	20.6	0.4644	0.0	0.00351						
+cfDNA_sample	MBC_1406	MBC_1406_2_ULP		642.0	21.4	0.4224	0.0	0.00213						
+death_or_last_follow_up	MBC_1406			1268.0	42.3									1.0
+biopsy	MBC_1408		unknown	0.0	0.0				metastasis	Left chest wall, needle core biopsy	+	0.0	ER + (50%, moderate)	
+biopsy	MBC_1408		unknown	13.0	0.4				metastasis	Left supraclavicular lymph node	-	1.0	ER negative	
+cfDNA_sample	MBC_1408	MBC_1408_ULP		344.0	11.5	0.2757	0.0	0.09669						
+death_or_last_follow_up	MBC_1408			635.0	21.2									1.0
+biopsy	MBC_1413		0	-754.0	-25.1				primary	SKIN, RIGHT BREAST, BIOPSY	+	0.0	Pos	
+biopsy	MBC_1413		141	-613.0	-20.4				primary	Breast, mastectomy with regional lymph nodes 	+	0.0	Pos (30%, strong)	
+biopsy	MBC_1413		754	0.0	0.0				metastasis	Right Pleural fluid	-	0.0	Negative - 0%	
+biopsy	MBC_1413		932	178.0	5.9				metastasis	LIVER MASS, CORE BIOPSY	low	1.0	Positive (5%, weak)	
+cfDNA_sample	MBC_1413	MBC_1413_2_ULP		196.0	6.5	0.3146	1.0	0.7365200000000001						
+cfDNA_sample	MBC_1413	MBC_1413_4_ULP		202.0	6.7	0.1936	1.0	0.457625						
+cfDNA_sample	MBC_1413	MBC_1413_9_ULP		279.0	9.3	0.07401	1.0	0.543235						
+cfDNA_sample	MBC_1413	MBC_1413_3_ULP		300.0	10.0	0.1229	1.0	0.59787						
+cfDNA_sample	MBC_1413	MBC_1413_1_ULP		343.0	11.4	0.1734	1.0	0.232515						
+biopsy	MBC_1413		1123	369.0	12.3				metastasis	Right pleural fluid 	-	0.0	Neg (0%)	
+cfDNA_sample	MBC_1413	MBC_1413_8_ULP		384.0	12.8	0.2497	1.0	0.7783599999999999						
+death_or_last_follow_up	MBC_1413			455.0	15.2									1.0
+biopsy	MBC_331		4635	0.0	0.0				metastasis	RIGHT RETROPERITONEAL MASS CORE NEEDLE BIOPSY	low	0.0	ER positive (low 2-5%, weak)	
+cfDNA_sample	MBC_331	MBC_331.ctDNA_ULP		287.0	9.6	0.4135	0.0	0.88785						
+biopsy	MBC_331		4922	287.0	9.6				metastasis	LIVER, CORE NEEDLE BIOPSY FOR LESION	-	1.0	ER negative (0%)	
+death_or_last_follow_up	MBC_331			1995.0	66.5									0.0

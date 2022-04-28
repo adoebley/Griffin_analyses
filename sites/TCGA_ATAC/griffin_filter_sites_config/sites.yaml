@@ -1,3 +1,0 @@
-site_files:
-  pan_cancer_peaks: ../raw_TCGA/pan_cancer_peak_locations.txt
-  all_brca_peaks: ../raw_TCGA/BRCA_peak_locations.txt

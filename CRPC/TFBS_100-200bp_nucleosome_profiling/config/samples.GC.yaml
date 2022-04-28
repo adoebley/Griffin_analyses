@@ -1,0 +1,74 @@
+samples:
+  CRPC_554_T2.ctDNA.WGS_FC19306940:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_554_T2.ctDNA.WGS_FC19306940/CRPC_554_T2.ctDNA.WGS_FC19306940_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_554_T2.ctDNA.WGS_FC19306940.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_554_T2.ctDNA.WGS_FC19306940.mappability_bias.txt
+  CRPC_554_T1.ctDNA.WGS_FC19310441:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_554_T1.ctDNA.WGS_FC19310441/CRPC_554_T1.ctDNA.WGS_FC19310441_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_554_T1.ctDNA.WGS_FC19310441.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_554_T1.ctDNA.WGS_FC19310441.mappability_bias.txt
+  CRPC_466_T2.ctDNA.WGS.FC19663990:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_466_T2.ctDNA.WGS.FC19663990/CRPC_466_T2.ctDNA.WGS.FC19663990_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_466_T2.ctDNA.WGS.FC19663990.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_466_T2.ctDNA.WGS.FC19663990.mappability_bias.txt
+  CRPC_248.ctDNA.WGS.FC16207473:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_248.ctDNA.WGS.FC16207473/CRPC_248.ctDNA.WGS.FC16207473_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_248.ctDNA.WGS.FC16207473.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_248.ctDNA.WGS.FC16207473.mappability_bias.txt
+  CRPC_466_T3.ctDNA.WGS.FC15884472:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_466_T3.ctDNA.WGS.FC15884472/CRPC_466_T3.ctDNA.WGS.FC15884472_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_466_T3.ctDNA.WGS.FC15884472.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_466_T3.ctDNA.WGS.FC15884472.mappability_bias.txt
+  CRPC_257.ctDNA.WGS.FC15884019:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_257.ctDNA.WGS.FC15884019/CRPC_257.ctDNA.WGS.FC15884019_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_257.ctDNA.WGS.FC15884019.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_257.ctDNA.WGS.FC15884019.mappability_bias.txt
+  CRPC_161.ctDNA.WGS_FC19663997:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_161.ctDNA.WGS_FC19663997/CRPC_161.ctDNA.WGS_FC19663997_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_161.ctDNA.WGS_FC19663997.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_161.ctDNA.WGS_FC19663997.mappability_bias.txt
+  CRPC_531_T3.ctDNA.WGS_FC19306923:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_531_T3.ctDNA.WGS_FC19306923/CRPC_531_T3.ctDNA.WGS_FC19306923_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_531_T3.ctDNA.WGS_FC19306923.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_531_T3.ctDNA.WGS_FC19306923.mappability_bias.txt
+  CRPC_14230_2.ctDNA.WGS.FC19663986:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_14230_2.ctDNA.WGS.FC19663986/CRPC_14230_2.ctDNA.WGS.FC19663986_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_14230_2.ctDNA.WGS.FC19663986.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_14230_2.ctDNA.WGS.FC19663986.mappability_bias.txt
+  CRPC_531_T1.ctDNA.WGS_FC19663991:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_531_T1.ctDNA.WGS_FC19663991/CRPC_531_T1.ctDNA.WGS_FC19663991_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_531_T1.ctDNA.WGS_FC19663991.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_531_T1.ctDNA.WGS_FC19663991.mappability_bias.txt
+  CRPC_248_T6.ctDNA.WGS_FC19663992:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_248_T6.ctDNA.WGS_FC19663992/CRPC_248_T6.ctDNA.WGS_FC19663992_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_248_T6.ctDNA.WGS_FC19663992.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_248_T6.ctDNA.WGS_FC19663992.mappability_bias.txt
+  CRPC_248_T2.ctDNA.WGS_FC19663994:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_248_T2.ctDNA.WGS_FC19663994/CRPC_248_T2.ctDNA.WGS_FC19663994_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_248_T2.ctDNA.WGS_FC19663994.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_248_T2.ctDNA.WGS_FC19663994.mappability_bias.txt
+  CRPC_531_T2.ctDNA.WGS_FC19663993:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_531_T2.ctDNA.WGS_FC19663993/CRPC_531_T2.ctDNA.WGS_FC19663993_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_531_T2.ctDNA.WGS_FC19663993.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_531_T2.ctDNA.WGS_FC19663993.mappability_bias.txt
+  CRPC_248_T1.ctDNA.WGS_FC19663995_merge:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/CRPC_248_T1.ctDNA.WGS_FC19663995_merge/CRPC_248_T1.ctDNA.WGS_FC19663995_merge_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/GC_bias/CRPC_248_T1.ctDNA.WGS_FC19663995_merge.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/CRPC_deepWGS_GC_and_mappability_correction/results/mappability_bias/CRPC_248_T1.ctDNA.WGS_FC19663995_merge.mappability_bias.txt
+  #MBC and HD
+  MBC_288.ctDNA_T2_deepWGS:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/MBC_288.ctDNA_T2_deepWGS/MBC_288.ctDNA_T2_deepWGS_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/GC_bias/MBC_288.ctDNA_T2_deepWGS.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/mappability_bias/MBC_288.ctDNA_T2_deepWGS.mappability_bias.txt
+  MBC_315.ctDNA_deepWGS:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/MBC_315.ctDNA_deepWGS/MBC_315.ctDNA_deepWGS_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/GC_bias/MBC_315.ctDNA_deepWGS.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/mappability_bias/MBC_315.ctDNA_deepWGS.mappability_bias.txt
+  HD45.ctDNA.WGS.FC19269447:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/HD45.ctDNA.WGS.FC19269447/HD45.ctDNA.WGS.FC19269447_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/GC_bias/HD45.ctDNA.WGS.FC19269447.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/mappability_bias/HD45.ctDNA.WGS.FC19269447.mappability_bias.txt
+  HD46.ctDNA.WGS.FC19269448:
+    bam: /fh/scratch/delete90/ha_g/realigned_bams/cfDNA_deepWGS_hg38/deepWGS_fastq_to_bam_paired_snakemake/results/HD46.ctDNA.WGS.FC19269448/HD46.ctDNA.WGS.FC19269448_recalibrated.bam
+    GC_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/GC_bias/HD46.ctDNA.WGS.FC19269448.GC_bias.txt
+    mappability_bias: /fh/fast/ha_g/user/adoebley/projects/griffin_revisions_1/GC_correction/deepWGS_GC_and_mappability_correction/results/mappability_bias/HD46.ctDNA.WGS.FC19269448.mappability_bias.txt
